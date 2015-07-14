@@ -1,0 +1,1810 @@
+1. Zhongguo Zhong Yao Za Zhi. 2014 Nov;39(22):4442-7.
+
+[Research of anti-aging mechanism of ginsenoside Rg1 on brain].
+
+[Article in Chinese]
+
+Li CP, Zhang MS, Liu J, Geng S, Li J, Zhu JH, Zhang YY, Jia YY, Wang L, Wang SH, 
+Wang YP.
+
+Neurodegenerative disease is common and frequently occurs in elderly patients.
+Previous studies have shown that ginsenoside Rg1 was able to inhibit senescent of
+brain, but the mechanism on the brain during the treatment remains elucidated. To
+study the mechanism of ginsenoside Rg1 in the process of anti-aging of brain,
+forty male SD rats were randomly divided into normal group, Rg1 normal group,
+brain aging model group and Rg1 brain aging model group, each group with 10 rats 
+(brain aging model group: subcutaneous injection of D-galactose (120 mg kg(-1)), 
+qd for 42 consecutive days; Rg1 brain aging model group: while copying the same
+test as that of brain aging model group, begin intraperitoneal injection of
+ginsenosides Rg1 (20 mg x kg(-1)) qd for 27 d from 16 d. Rg1 normal group:
+subcutaneous injection of the same amount of saline; begin intraperitoneal
+injection of ginsenosides Rg1 (20 mg x kg(-1)) qd for 27 d from 16 d. Normal:
+injected with an equal volume of saline within the same time. Perform the related
+experiment on the second day after finishing copying the model or the completion 
+of the first two days of drug injections). Learning and memory abilities were
+measured by Morris water maze. The number of senescent cells was detected by
+SA-beta-Gal staining while the level of IL-1 and IL-6 proinflammatory cytokines
+in hippocampus were detected by ELISA. The activities of SOD, contents of GSH in 
+hippo- campus were quantified by chromatometry. The change of telomerase
+activities and telomerase length were performed by TRAP-PCR and southern blotting
+assay, respectively. It is pointed that, in brain aging model group, the spatial 
+learning and memory capacities were weaken, SA-beta-Gal positive granules
+increased in section of brain tissue, the activity of antioxidant enzyme SOD and 
+the contents of GSH decreased in hippocampus, the level of IL-1 and IL-6
+increased in hippocampus, while the length of telomere and the activity of
+telomerase decreased in hippocampus. Rats of Rg1 brain aging group had their
+spatial learning and memory capacities enhanced, SA-beta-Gal positive granules in
+section of brain tissue decreased, the activity of antioxidant enzyme SOD and the
+contents of GSH increased in hippocampus, the level of IL-1 and IL-6 in
+hippocampus decreased, the length contraction of telomere suppressed while the
+change of telomerase activity increased in hippocampus. Compared with that of
+normal group, the spatial learning and memory capacities were enhanced in Rg1
+normal group, SA-beta-Gal positive granules in section of brain tissue decreased 
+in Rg1 normal group, the level of IL-1 and IL-6 in hippocampus decreased in Rg1
+normal group. The results indicated that improvement of antioxidant ability,
+regulating the level of proinflammatory cytokines and regulation of telomerase
+system may be the underlying anti-aging mechanism of Ginsenoside Rg1.
+
+PMID: 25850282  [PubMed - indexed for MEDLINE]
+
+
+2. Psychiatry Res. 2015 Apr 30;232(1):58-64. doi: 10.1016/j.pscychresns.2015.01.007.
+Epub 2015 Jan 19.
+
+PBMC telomerase activity, but not leukocyte telomere length, correlates with
+hippocampal volume in major depression.
+
+Wolkowitz OM(1), Mellon SH(2), Lindqvist D(3), Epel ES(4), Blackburn EH(5), Lin
+J(5), Reus VI(4), Burke H(4), Rosser R(4), Mahan L(4), Mackin S(4), Yang T(4),
+Weiner M(6), Mueller S(6).
+
+Author information: 
+(1)Department of Psychiatry, University of California San Francisco (UCSF) School
+of Medicine, San Francisco, CA, USA. Electronic address: Owen.Wolkowitz@ucsf.edu.
+(2)Department of OBGYN and Reproductive Endocrinology, UCSF School of Medicine,
+San Francisco, CA, USA. (3)Department of Clinical Sciences, Section for
+Psychiatry, Lund University, Lund, Sweden. (4)Department of Psychiatry,
+University of California San Francisco (UCSF) School of Medicine, San Francisco, 
+CA, USA. (5)Department of Biochemistry and Biophysics, UCSF School of Medicine,
+San Francisco, CA, USA. (6)Department of Radiology, UCSF School of Medicine, San 
+Francisco, CA, USA; San Francisco Veterans Administration Medical Center, San
+Francisco, CA, USA.
+
+Accelerated cell aging, indexed in peripheral leukocytes by telomere shortness
+and in peripheral blood mononuclear cells (PBMCs) by telomerase activity, has
+been reported in several studies of major depressive disorder (MDD). However, the
+relevance of these peripheral measures for brain indices that are presumably more
+directly related to MDD pathophysiology is unknown. In this study, we explored
+the relationship between PBMC telomerase activity and leukocyte telomere length
+and magnetic resonance imaging-estimated hippocampal volume in un-medicated
+depressed individuals and healthy controls. We predicted that, to the extent
+peripheral and central telomerase activity are directly related, PBMC telomerase 
+activity would be positively correlated with hippocampal volume, perhaps due to
+hippocampal telomerase-associated neurogenesis, neuroprotection or neurotrophic
+facilitation, and that this effect would be clearer in individuals with increased
+PBMC telomerase activity, as previously reported in un-medicated MDD. We did not 
+have specific hypotheses regarding the relationship between leukocyte telomere
+length and hippocampal volume, due to conflicting reports in the published
+literature. We found, in 25 un-medicated MDD subjects, that PBMC telomerase
+activity was significantly positively correlated with hippocampal volume; this
+relationship was not observed in 18 healthy controls. Leukocyte telomere length
+was not significantly related to hippocampal volume in either group (19
+unmedicated MDD subjects and 17 healthy controls). Although the nature of the
+relationship between peripheral telomerase activity and telomere length and the
+hippocampus is unclear, these preliminary data are consistent with the
+possibility that PBMC telomerase activity indexes, and may provide a novel window
+into, hippocampal neuroprotection and/or neurogenesis in MDD.
+
+Copyright © 2015 Elsevier Ireland Ltd. All rights reserved.
+
+PMCID: PMC4404215 [Available on 2016-04-30]
+PMID: 25773002  [PubMed - in process]
+
+
+3. Front Behav Neurosci. 2015 Feb 5;9:17. doi: 10.3389/fnbeh.2015.00017. eCollection
+2015.
+
+Dietary intake alters behavioral recovery and gene expression profiles in the
+brain of juvenile rats that have experienced a concussion.
+
+Mychasiuk R(1), Hehar H(1), Ma I(1), Esser MJ(1).
+
+Author information: 
+(1)Faculty of Medicine, Alberta Children's Hospital Research Institute,
+University of Calgary Calgary, AB, Canada.
+
+Concussion and mild traumatic brain injury (mTBI) research has made minimal
+progress diagnosing who will suffer from lingering symptomology or generating
+effective treatment strategies. Research demonstrates that dietary intake affects
+many biological systems including brain and neurological health. This study
+determined if exposure to a high fat diet (HFD) or caloric restriction (CR)
+altered post-concussion susceptibility or resiliency using a rodent model of
+pediatric concussion. Rats were maintained on HFD, CR, or standard diet (STD)
+throughout life (including the prenatal period and weaning). At postnatal day 30,
+male and female rats experienced a concussion or a sham injury which was followed
+by 17 days of testing. Prefrontal cortex and hippocampus tissue was collected for
+molecular profiling. Gene expression changes in BDNF, CREB, DNMT1, FGF-2, IGF1,
+LEP, PGC-1a, SIRT1, Tau, and TERT were analyzed with respect to injury and diet. 
+Analysis of telomere length (TL) using peripheral skin cells and brain tissue
+found that TL in skin significantly correlated with TL in brain tissue and TL was
+affected by dietary intake and injury status. With respect to mTBI outcomes, diet
+was correlated with recovery as animals on the HFD often displayed poorer
+performance than animals on the CR diet. Molecular analysis demonstrated that
+diet induced epigenetic changes that can be associated with differences in
+individual predisposition and resiliency to post-concussion syndrome.
+
+PMCID: PMC4318392
+PMID: 25698949  [PubMed]
+
+
+4. J Neurosci. 2015 Jan 28;35(4):1659-74. doi: 10.1523/JNEUROSCI.2925-14.2015.
+
+The role of telomerase protein TERT in Alzheimer's disease and in tau-related
+pathology in vitro.
+
+Spilsbury A(1), Miwa S(1), Attems J(2), Saretzki G(3).
+
+Author information: 
+(1)Newcastle University Institute for Ageing, Campus for Ageing and Vitality,
+Institute for Cell and Molecular Bioscience, and. (2)Newcastle University
+Institute for Ageing, Campus for Ageing and Vitality, Institute of Neuroscience, 
+Newcastle University, Newcastle upon Tyne, NE4 5PL, UK. (3)Newcastle University
+Institute for Ageing, Campus for Ageing and Vitality, Institute for Cell and
+Molecular Bioscience, and gabriele.saretzki@newcastle.ac.uk.
+
+The telomerase reverse transcriptase protein TERT has recently been demonstrated 
+to have a variety of functions both in vitro and in vivo, which are distinct from
+its canonical role in telomere extension. In different cellular systems, TERT
+protein has been shown to be protective through its interaction with
+mitochondria. TERT has previously been found in rodent neurons, and we
+hypothesize that it might have a protective function in adult human brain. Here, 
+we investigated the expression of TERT at different stages of Alzheimer's disease
+pathology (Braak Stages I-VI) in situ and the ability of TERT to protect against 
+oxidative damage in an in vitro model of tau pathology. Our data reveal that TERT
+is expressed in vitro in mouse neurons and microglia, and in vivo in the
+cytoplasm of mature human hippocampal neurons and activated microglia, but is
+absent from astrocytes. Intriguingly, hippocampal neurons expressing TERT did not
+contain hyperphosphorylated tau. Vice versa, neurons that expressed high levels
+of pathological tau did not appear to express TERT protein. TERT protein
+colocalized with mitochondria in the hippocampus of Alzheimer's disease brains
+(Braak Stage VI), as well as in cultured neurons under conditions of oxidative
+stress. Our in vitro data suggest that the absence of TERT increases ROS
+generation and oxidative damage in neurons induced by pathological tau. Together,
+our findings suggest that TERT protein persists in neurons of the adult human
+brain, where it may have a protective role against tau pathology.
+
+Copyright © 2015 Spilsbury et al.
+
+PMCID: PMC4308607
+PMID: 25632141  [PubMed - indexed for MEDLINE]
+
+
+5. Int J Neuropsychopharmacol. 2015 Jan 24;18(7):pyv002. doi: 10.1093/ijnp/pyv002.
+
+Telomerase dysregulation in the hippocampus of a rat model of depression:
+normalization by lithium.
+
+Wei YB(1), Backlund L(1), Wegener G(1), Mathé AA(1), Lavebratt C(1).
+
+Author information: 
+(1)Department of Molecular Medicine and Surgery, Neurogenetics Unit, Karolinska
+Institutet, Stockholm, Sweden (Mr Wei, Drs Backlund and Lavebratt); Center for
+Molecular Medicine, Karolinska University Hospital, Stockholm, Sweden (Mr Wei, Dr
+Lavebratt); Centre for Psychiatric Research and Education, Karolinska Institutet,
+Clinic for Affective Disorders, Stockholm, Sweden (Drs Backlund and Mathé);
+Translational Neuropsychiatry Unit, Department of Clinical Medicine, Aarhus
+University, Aarhus, Denmark (Dr Wegener); Centre of Excellence for Pharmaceutical
+Sciences, North-West University, Potchefstroom, South Africa (Dr Wegener); and
+Department of Clinical Neuroscience, Section for Psychiatry, Karolinska
+Institutet, Stockholm, Sweden (Dr Mathé).
+
+BACKGROUND: Telomeres are protective DNA-protein complexes at the ends of each
+chromosome, maintained primarily by the enzyme telomerase. Shortening of the
+blood leukocyte telomeres is associated with aging, several chronic diseases, and
+stress, eg, major depression. Hippocampus is pivotal in the regulation of
+cognition and mood and the main brain region of telomerase activity. Whether
+there is telomere dysfunction in the hippocampus of depressed subjects is
+unknown. Lithium, used in the treatment and relapse prevention of mood disorders,
+was found to protect against leukocyte telomere shortening in humans, but the
+mechanism has not been elucidated. To answer the questions whether telomeres are 
+shortened and the telomerase activity changed in the hippocampus and whether
+lithium could reverse the process, we used a genetic model of depression, the
+Flinders Sensitive Line rat, and treated the animals with lithium.
+METHODS: Telomere length, telomerase reverse transcriptase (Tert) expression,
+telomerase activity, and putative mediators of telomerase activity were
+investigated in the hippocampus of these animals.
+RESULTS: The naïve Flinders Sensitive Line had shorter telomere length,
+downregulated Tert expression, reduced brain-derived neurotrophic factor levels, 
+and reduced telomerase activity compared with the Flinders Resistant Line
+controls. Lithium treatment normalized the Tert expression and telomerase
+activity in the Flinders Sensitive Line and upregulated ß-catenin.
+CONCLUSION: This is the first report showing telomere dysregulation in
+hippocampus of a well-defined depression model and restorative effects of lithium
+treatment. If replicated in other models of mood disorder, the findings will
+contribute to understanding both the telomere function and the mechanism of
+lithium action in hippocampus of depressed patients.
+
+© The Author 2015. Published by Oxford University Press on behalf of CINP.
+
+PMID: 25618407  [PubMed - in process]
+
+
+6. Mol Neurobiol. 2014 Nov 30. [Epub ahead of print]
+
+Lack of JWA Enhances Neurogenesis and Long-Term Potentiation in Hippocampal
+Dentate Gyrus Leading to Spatial Cognitive Potentiation.
+
+Sha S(1), Xu J, Lu ZH, Hong J, Qu WJ, Zhou JW, Chen L.
+
+Author information: 
+(1)Laboratory of Reproductive Medicine, Nanjing Medical University, Nanjing,
+Jiangsu, 210029, China.
+
+JWA (Arl6ip5), a homologous gene of glutamate-transporter-associated protein 3-18
+(GTRAP3-18) and addicsin, is highly expressed in hippocampus. We generated
+systemic and neuronal JWA knockout (JWA-KO and JWA-nKO) mice to investigate the
+influence of JWA deficiency on spatial cognitive performance, process of
+neurogenesis, and induction of long-term potentiation (LTP) in hippocampal
+dentate gyrus (DG). In comparison with wild-type (WT) mice and JWA (loxP/loxP)
+(control of JWA-nKO) mice, 8-week-old JWA-KO mice and JWA-nKO mice showed spatial
+cognitive potentiation as assessed by Morris water maze test. In hippocampal DG
+of JWA-nKO mice, either survival and migration or neurite growth of newborn
+neurons were significantly enhanced without the changes in proliferation and
+differentiation of stem cells. In addition, the increase of LTP amplitude and the
+decline of LTP threshold were observed in DG, but not in CA1 region, of JWA-nKO
+mice compared to control mice. The levels of hippocampal FAK, Akt, and mTOR
+phosphorylation in JWA-nKO mice were higher than those in control mice. The PI3K 
+or FAK inhibitor could abolish the enhanced neurogenesis and LTP induction in
+JWA-nKO mice, which was accompanied by disappearance of the spatial cognitive
+potentiation. The treatment of JWA-nKO mice with 3'-azido-3'-deoxythymidine
+(AZT), a telomerase inhibitor, suppressed not only the enhanced neurogenesis but 
+also the enhanced LTP induction in DG, but it did not affect the LTP induction in
+CA1 region. The results suggest that the JWA deficiency through cascading
+FAK-PI3K-Akt-mTOR pathway increases the newborn neurons and enhances the LTP
+induction in hippocampal DG, which leads to the spatial cognitive potentiation.
+
+PMID: 25432888  [PubMed - as supplied by publisher]
+
+
+7. JAMA Neurol. 2014 Oct;71(10):1247-54. doi: 10.1001/jamaneurol.2014.1926.
+
+Effect of leukocyte telomere length on total and regional brain volumes in a
+large population-based cohort.
+
+King KS(1), Kozlitina J(2), Rosenberg RN(3), Peshock RM(1), McColl RW(1), Garcia 
+CK(2).
+
+Author information: 
+(1)Department of Radiology, University of Texas Southwestern Medical Center,
+Dallas. (2)Eugene McDermott Center for Human Growth and Development, University
+of Texas Southwestern Medical Center, Dallas3Department of Internal Medicine,
+University of Texas Southwestern Medical Center, Dallas. (3)Department of
+Neurology, University of Texas Southwestern Medical Center, Dallas5Editor, JAMA
+Neurology.
+
+Erratum in
+    JAMA Neurol. 2014 Dec;71(12):1580.
+
+IMPORTANCE: Telomere length has been associated with dementia and psychological
+stress, but its relationship with human brain size is unknown.
+OBJECTIVE: To determine if peripheral blood telomere length is associated with
+brain volume.
+DESIGN, SETTING, AND PARTICIPANTS: Peripheral blood leukocyte telomere length and
+brain volumes were measured for 1960 individuals in the Dallas Heart Study, a
+population-based, probability sample of Dallas County, Texas, residents, with a
+median (25th-75th percentile) age of 50 (42-58) years. Global and 48 regional
+brain volumes were assessed from the automated analysis of magnetic resonance
+imaging.
+MAIN OUTCOMES AND MEASURES: Telomere length and global and regional brain
+volumes.
+RESULTS: Leukocyte telomere length was associated with total cerebral volume (ß
+[SE], 0.06 [0.01], P?<.001) including white and cortical gray matter volume (ß
+[SE], 0.04 [0.01], P?=?.002; ß [SE], 0.07 [0.02], P?<.001, respectively),
+independent of age, sex, ethnicity, and total intracranial volume. While age was 
+associated with the size of most subsegmental regions of the cerebral cortex,
+telomere length was associated with certain subsegmental regions. Compared with
+age, telomere length (TL) explained a sizeable proportion of the variance in
+volume of the hippocampus, amygdala, and inferior temporal region (hippocampus:
+ßTL [SE], 0.08 [0.02], R2, 0.91% vs ßage [SE], -0.16 [0.02], R2, 3.80%; amygdala:
+ßTL [SE], 0.08 [0.02], R2, 0.78% vs ßage [SE],-0.19 [0.02], R2,4.63%; inferior
+temporal: ßTL [SE], 0.07 [0.02], R2, 0.92% vs ßage [SE], -0.14 [0.02], R2, 3.98%)
+(P?<.001 for all). The association of telomere length and the size of the
+inferior and superior parietal, hippocampus, and fusiform regions was stronger in
+individuals older than 50 years than younger individuals (inferior parietal: ß>50
+[SE], 0.13 [0.03], P?<.001 vs ß=50 [SE], 0.02 [0.02], P?=?.51, P for interaction 
+= .001; superior parietal: ß>50 [SE], 0.11 [0.03], P?<.001 vs ß=50 [SE], 0.01
+[0.02], P?=?.71, P for interaction = .004; hippocampus: ß>50 [SE], 0.10 [0.03],
+P?=?.004 vs ß=50 [SE], 0.05 [0.02], P?=?.07, P for interaction = .04; fusiform:
+ß>50 [SE], 0.09 [0.03], P?=?.002, ß=50 [SE], 0.03 [0.02], P?=?.31, P for
+interaction = .03). The volume of the hippocampus, amygdala, superior and
+inferior temporal, precuneus, lateral orbitofrontal, posterior cingulate,
+thalamus and ventral diencephalon were independently associated with telomere
+length after adjustment for all covariates (age, gender, ethnicity, total
+intracranial volume, body mass index, blood pressure, diabetes, smoking status,
+and APOE genotype).
+CONCLUSIONS AND RELEVANCE: To our knowledge, this is the first population-based
+study to date to evaluate telomere length as an independent predictor of global
+and regional brain size. Future studies are needed to determine how telomere
+length and anatomic structural changes are related to cognitive function,
+dementia, and psychological disease.
+
+PMID: 25090243  [PubMed - indexed for MEDLINE]
+
+
+8. JAMA Neurol. 2014 Jul 1;71(7):921-3. doi: 10.1001/jamaneurol.2014.870.
+
+Relationship between leukocyte telomere length, telomerase activity, and
+hippocampal volume in early aging.
+
+Jacobs EG(1), Epel ES(2), Lin J(3), Blackburn EH(3), Rasgon NL(4).
+
+Author information: 
+(1)Department of Psychiatry, Harvard Medical School, Boston, Massachusetts.
+(2)Department of Psychiatry, University of California, San Francisco.
+(3)Department of Biochemistry and Biophysics, University of California, San
+Francisco. (4)Department of Psychiatry and Behavioral Sciences, Stanford
+University School of Medicine, Stanford, California.
+
+PMID: 25023551  [PubMed - indexed for MEDLINE]
+
+
+9. PLoS One. 2014 Jul 1;9(7):e101437. doi: 10.1371/journal.pone.0101437. eCollection
+2014.
+
+Infant-caregiver experiences alter telomere length in the brain.
+
+Asok A(1), Bernard K(2), Rosen JB(1), Dozier M(1), Roth TL(1).
+
+Author information: 
+(1)University of Delaware, Department of Psychological and Brain Sciences,
+Newark, DE, United States of America. (2)Stony Brook University, Department of
+Psychology, Stony Brook, NY, United States of America.
+
+Following adverse childhood experiences, high quality maternal care can protect
+against accelerated telomere shortening in peripheral cells. It is less clear,
+however, how telomere length in the brain is influenced by early caregiving
+experiences. Using rats, we investigated if quality of care (i.e., aversive or
+nurturing care outside of the homecage) during the first seven days of postnatal 
+(PN) life affected telomere length in the adult brain (PN90) of male and female
+rats. At PN90, we found that nurturing care outside of the homecage was
+associated with longer telomeres in the medial prefrontal cortex relative to
+nurturing care inside the homecage (i.e., normal maternal care) and aversive care
+outside of the homecage. Further, pups exposed to aversive care outside of the
+homecage demonstrated longer telomeres in the amygdala relative to pups exposed
+to nurturing care inside the homecage. These effects were specific to females. No
+differences in telomere length between caregiving conditions were observed in the
+ventral hippocampus. Thus, positive and negative early-life experiences result in
+long-term, sex-specific changes of telomeres in the brain.
+
+PMCID: PMC4077840
+PMID: 24983884  [PubMed - in process]
+
+
+10. PLoS One. 2014 Jun 30;9(6):e101291. doi: 10.1371/journal.pone.0101291.
+eCollection 2014.
+
+Ginsenoside Rg1 prevents cognitive impairment and hippocampus senescence in a rat
+model of D-galactose-induced aging.
+
+Zhu J(1), Mu X(1), Zeng J(2), Xu C(1), Liu J(1), Zhang M(1), Li C(1), Chen J(3), 
+Li T(3), Wang Y(1).
+
+Author information: 
+(1)Department of Histology and Embryology, Laboratory of Stem Cells and Tissue
+Engineering, Chongqing Medical University, Chongqing, China. (2)The Land Force
+Lintong Sanatorium, Xi'an, Shanxi, China. (3)Chongqing Stem Cell Therapy
+Engineering Technical Center, Chongqing, China.
+
+Neurogenesis continues throughout the lifetime in the hippocampus, while the rate
+declines with brain aging. It has been hypothesized that reduced neurogenesis may
+contribute to age-related cognitive impairment. Ginsenoside Rg1 is an active
+ingredient of Panax ginseng in traditional Chinese medicine, which exerts
+anti-oxidative and anti-aging effects. This study explores the neuroprotective
+effect of ginsenoside Rg1 on the hippocampus of the D-gal (D-galactose) induced
+aging rat model. Sub-acute aging was induced in male SD rats by subcutaneous
+injection of D-gal (120 mg/kg·d) for 42 days, and the rats were treated with
+ginsenoside Rg1 (20 mg/kg·d, intraperitoneally) or normal saline for 28 days
+after 14 days of D-gal injection. In another group, normal male SD rats were
+treated with ginsenoside Rg1 alone (20 mg/kg·d, intraperitoneally) for 28 days.
+It showed that administration of ginsenoside Rg1 significantly attenuated all the
+D-gal-induced changes in the hippocampus, including cognitive capacity,
+senescence-related markers and hippocampal neurogenesis, compared with the
+D-gal-treated rats. Further investigation showed that ginsenoside Rg1 protected
+NSCs/NPCs (neural stem cells/progenitor cells) shown by increased level of SOX-2 
+expression; reduced astrocytes activation shown by decrease level of Aeg-1
+expression; increased the hippocampal cell proliferation; enhanced the activity
+of the antioxidant enzymes GSH-Px (glutathione peroxidase) and SOD (Superoxide
+Dismutase); decreased the levels of IL-1ß, IL-6 and TNF-a, which are the
+proinflammatory cytokines; increased the telomere lengths and telomerase
+activity; and down-regulated the mRNA expression of cellular senescence
+associated genes p53, p21Cip1/Waf1 and p19Arf in the hippocampus of aged rats.
+Our data provides evidence that ginsenoside Rg1 can improve cognitive ability,
+protect NSCs/NPCs and promote neurogenesis by enhancing the antioxidant and
+anti-inflammatory capacity in the hippocampus.
+
+PMCID: PMC4076296
+PMID: 24979747  [PubMed - indexed for MEDLINE]
+
+
+11. Sante Ment Que. 2013 Autumn;38(2):19-34.
+
+[Review of the effects of mindfulness meditation on mental and physical health
+and its mechanisms of action].
+
+[Article in French]
+
+Ngô TL(1).
+
+Author information: 
+(1)Université de Montréal; Hôpital du Sacré-Coeur de Montréal.
+
+Interventions based on mindfulness have become increasingly popular. This article
+reviews the empirical literature on its effects on mental and physical health,
+discusses presumed mechanisms of action as well as its proposed neurobiological
+underpinning. Mindfulness is associated with increased well-being as well as
+reduced cognitive reactivity and behavioral avoidance. It seems to contribute to 
+enhance immune functions, diminish inflammation, diminish the reactivity of the
+autonomic nervous system, increase telomerase activity, lead to higher levels of 
+plasmatic melatonin and serotonin. It enhances the quality of life for patients
+suffering from chronic pain, fibromylagia and HIV infection. It facilitates
+adaptation to the diagnosis of cancer and diabetes. It seems to lead to
+symptomatic improvement in irritable bowel syndrome, chronic fatigue syndrome,
+hot flashes, insomnia, stress related hyperphagia. It diminishes craving in
+substance abuse. The proposed mechanism of action are enhanced metacognitive
+conscience, interoceptive exposure, experiential acceptance, self-management,
+attention control, memory, relaxation. Six mechanism of actions for which
+neurological underpinnings have been published are: attention regulation
+(anterior cingulate cortex), body awareness (insula, temporoparietal junction),
+emotion regulation (modulation of the amygdala by the lateral prefrontal cortex),
+cognitive re-evaluation (activation of the dorsal medial prefrontal cortex or
+diminished activity in prefrontal regions), exposure/extinction/reconsolidation
+(ventromedial prefrontal cortex, hippocampus, amygdala) and flexible self-concept
+(prefrontal median cortex, posterior cingulated cortex, insula, temporoparietal
+junction). The neurobiological effects of meditation are described. These are:
+(1) the deactivation of the default mode network that generates spontaneous
+thoughts, contributes to the maintenance of the autobiographical self and is
+associated with anxiety and depression; (2) the anterior cingulate cortex that
+underpins attention functions; (3) the anterior insula associated with the
+perception of visceral sensation, the detection of heartbeat and respiratory
+rate, and the affective response to pain; (4) the posterior cingulate cortex
+which helps to understand the context from which a stimulus emerges; (5) the
+temporoparietal junction which assumes a central role in empathy and compassion; 
+(6) the amygdala implicated in fear responses. The article ends with a short
+review of the empirical basis supporting the efficacy for mindfulness based
+intervention and suggested directions for future research.
+
+PMID: 24719001  [PubMed - indexed for MEDLINE]
+
+
+12. Brain. 2014 Jan;137(Pt 1):137-52. doi: 10.1093/brain/awt303. Epub 2013 Nov 25.
+
+Zinc deficiency dysregulates the synaptic ProSAP/Shank scaffold and might
+contribute to autism spectrum disorders.
+
+Grabrucker S(1), Jannetti L, Eckert M, Gaub S, Chhabra R, Pfaender S, Mangus K,
+Reddy PP, Rankovic V, Schmeisser MJ, Kreutz MR, Ehret G, Boeckers TM, Grabrucker 
+AM.
+
+Author information: 
+(1)1 WG Molecular Analysis of Synaptopathies, Neurology Department, Neurocentre
+of Ulm University, Ulm, Germany.
+
+Proteins of the ProSAP/Shank family act as major organizing scaffolding elements 
+within the postsynaptic density of excitatory synapses. Deletions, mutations or
+the downregulation of these molecules has been linked to autism spectrum
+disorders, the related Phelan McDermid Syndrome or Alzheimer's disease.
+ProSAP/Shank proteins are targeted to synapses depending on binding to zinc,
+which is a prerequisite for the assembly of the ProSAP/Shank scaffold. To gain
+insight into whether the previously reported assembly of ProSAP/Shank through
+zinc ions provides a crossing point between genetic forms of autism spectrum
+disorder and zinc deficiency as an environmental risk factor for autism spectrum 
+disorder, we examined the interplay between zinc and ProSAP/Shank in vitro and in
+vivo using neurobiological approaches. Our data show that low postsynaptic zinc
+availability affects the activity dependent increase in ProSAP1/Shank2 and
+ProSAP2/Shank3 levels at the synapse in vitro and that a loss of synaptic
+ProSAP1/Shank2 and ProSAP2/Shank3 occurs in a mouse model for acute and prenatal 
+zinc deficiency. Zinc-deficient animals displayed abnormalities in behaviour such
+as over-responsivity and hyperactivity-like behaviour (acute zinc deficiency) and
+autism spectrum disorder-related behaviour such as impairments in vocalization
+and social behaviour (prenatal zinc deficiency). Most importantly, a low zinc
+status seems to be associated with an increased incidence rate of seizures,
+hypotonia, and attention and hyperactivity issues in patients with
+Phelan-McDermid syndrome, which is caused by haploinsufficiency of
+ProSAP2/Shank3. We suggest that the molecular underpinning of prenatal zinc
+deficiency as a risk factor for autism spectrum disorder may unfold through the
+deregulation of zinc-binding ProSAP/Shank family members.
+
+PMID: 24277719  [PubMed - indexed for MEDLINE]
+
+
+13. J Biomed Res. 2012 Sep;26(5):381-8. doi: 10.7555/JBR.26.20110078. Epub 2012 Apr
+18.
+
+Overexpression of the mTERT gene by adenoviral vectors promotes the proliferation
+of neuronal stem cells in vitro and stimulates neurogenesis in the hippocampus of
+mice.
+
+Liu M(1), Hu Y, Zhu L, Chen C, Zhang Y, Sun W, Zhou Q.
+
+Author information: 
+(1)Department of Pharmacology, Pharmacy College, Nanjing Medical University,
+Nanjing, Jiangsu 210029, China.
+
+We sought to construct the adenoviral vector carrying the gene encoding mouse
+telomerase reverse transcriptase (mTERT), as well as detect its expression and
+effect on the proliferation of neuronal stem cells. mTERT was amplified by RT-PCR
+and then the eukaryotic expression vector of pDC-EGFP-TERT was constructed. After
+DNA sequence analysis, we detected that there were 293 cells transfected with
+pDC-EGFP-TERT and helper adenovirus plasmid pBHG lox ?E1, and three Cre using
+Lipofectamine 2000 mediation, named Ad-mTERT-GFP, to package adenoviral
+particles. The Ad-mTERT-GFP was used to infect neuronal stem cells and then the
+expression and activity of mTERT were detected. In addition, Bromodeoxyuridine
+labeling test identified the impact of mTERT overexpression on proliferation of
+neuronal stem cells. The recombinant adenoviral vector confirmed that mTERT was
+successfully constructed. Overexpression of mTERT stimulated the proliferation of
+neuronal stem cells both in vitro and in vivo. mTERT overexpression via
+adenoviral vector carrying mTERT cDNA upregulated the ability of proliferation in
+neuronal stem cells.
+
+PMCID: PMC3613735
+PMID: 23554775  [PubMed]
+
+
+14. BMC Res Notes. 2012 Dec 27;5:697. doi: 10.1186/1756-0500-5-697.
+
+The impact of voluntary exercise on relative telomere length in a rat model of
+developmental stress.
+
+Botha M(1), Grace L, Bugarith K, Russell VA, Kidd M, Seedat S, Hemmings SM.
+
+Author information: 
+(1)Department of Biomedical Sciences, Faculty of Medicine and Health Sciences,
+Stellenbosch University, Tygerberg, South Africa.
+
+BACKGROUND: Exposure to early adverse events can result in the development of
+later psychopathology, and is often associated with cognitive impairment. This
+may be due to accelerated cell aging, which can be catalogued by attritioned
+telomeres. Exercise enhances neurogenesis and has been proposed to buffer the
+effect of psychological stress on telomere length. This study aimed to
+investigate the impact of early developmental stress and voluntary exercise on
+telomere length in the ventral hippocampus (VH) and prefrontal cortex (PFC) of
+the rat. Forty-five male Sprague-Dawley rats were categorised into four groups:
+maternally separated runners (MSR), maternally separated non-runners (MSnR),
+non-maternally separated runners (nMSR) and non-maternally separated non-runners 
+(nMSnR). Behavioural analyses were conducted to assess anxiety-like behaviour and
+memory performance in the rats, after which relative telomere length was measured
+using qPCR.
+RESULTS: Maternally separated (MS) rats exhibited no significant differences in
+either anxiety levels or memory performance on the elevated-plus maze and the
+open field compared to non-maternally separated rats at 49 days of age. Exercised
+rats displayed increased levels of anxiety on the day that they were removed from
+the cages with attached running wheels, as well as improved spatial learning and 
+temporal recognition memory compared to non-exercised rats. Exploratory post-hoc 
+analyses revealed that maternally separated non-exercised rats exhibited
+significantly longer telomere length in the VH compared to those who were not
+maternally separated; however, exercise appeared to cancel this effect since
+there was no difference in VH telomere length between maternally separated and
+non-maternally separated runners.
+CONCLUSIONS: The increased telomere length in the VH of maternally separated
+non-exercised rats may be indicative of reduced cellular proliferation, which
+could, in turn, indicate hippocampal dysfunction. This effect on telomere length 
+was not observed in exercised rats, indicating that voluntary exercise may buffer
+against the progressive changes in telomere length caused by alterations in
+maternal care early in life. In future, larger sample sizes will be needed to
+validate results obtained in the present study and obtain a more accurate
+representation of the effect that psychological stress and voluntary exercise
+have on telomere length.
+
+PMCID: PMC3543200
+PMID: 23270390  [PubMed - indexed for MEDLINE]
+
+
+15. Acupunct Electrother Res. 2012;37(1):13-47.
+
+Newly discovered quick, non-invasive screening method of bone marrow malignancies
+including various leukemias, Hodgkin's lymphoma, non-Hodgkin's lymphoma, &
+multiple myeloma by abnormality of small rectangular area within bone marrow
+organ representation areas of the face.
+
+Omura Y(1), O'Young B, Jones M, Nihrane A, Duvvi H, Paluch K, Shimotsuura Y, Ohki
+M.
+
+Author information: 
+(1)Heart Disease Research Foundation. icaet@yahoo.com
+
+Diagnoses of bone marrow associated malignancies such as Acute & Chronic
+Lymphocytic Leukemia, Acute & Chronic Myelogenous (Myeloid) Leukemia, Hodgkin's
+Lymphoma & Non-Hodgkin's Lymphoma, and Multiple Myeloma are often missed without 
+a blood test. However, in 2008, Omura Y reported several newly discovered organ
+representation areas that exist between the lower end of the eyebrows and upper
+end of the upper eyelid. This space was divided into 5 organ representation
+areas. The first space (more than 1/4 of entire space) near the side of the face 
+(temple) is the bone marrow representation area (BMRA). Therefore, we examined
+the bone marrow representation areas non-invasively using the Bi-Digital O-Ring
+Test (BDORT). When the small rectangular shaped part of the BMRA is strong
+negative (-) with more than -2, often there is a malignancy associated with bone 
+marrow. In this area, we found 1) Integrin alpha5beta1 & Oncogen C-fos Ab2
+increased very significantly between 125-300 ng BDORT units; 2) very high
+Chrysotile Asbestos (0.11-0.14 mg); 3) markedly reduced Acetylcholine of less
+than 1 ng; 4) significantly reduced telomere of less than 1 yg (= 10(-24) g); and
+5) Increased 8-OH-dG (often more than 5 ng). Once the abnormal small rectangular 
+area is localized by BDORT, by detecting the specific microscope slide which
+produces EMF (electromagnetic field) resonance, one can diagnose these
+malignancies non-invasively in about 10 minutes. When a subject has any one of
+the above 7 types of bone marrow associated malignancies, the 5 aforementioned
+abnormal parameters can be detected. When Acetylcholine is markedly reduced to
+0.25 ng or less, 8-OH-dG is 10 ng or higher, and Sirtuin 1 (one of the 7
+mammalian longevity genes products) in both the Hippocampus and the body is 0.025
+pg or less, most of the patients have a very poor prognosis. However, we found
+that increasing normal cell telomere & longevity gene product Sirtuin 1 can often
+improve both pathology & prognosis. All measurements are in BDORT units (the
+weight required to produce maximum EMF resonance).
+
+PMID: 22852211  [PubMed - indexed for MEDLINE]
+
+
+16. PLoS One. 2012;7(4):e34292. doi: 10.1371/journal.pone.0034292. Epub 2012 Apr 10.
+
+Longer leukocyte telomere length is associated with smaller hippocampal volume
+among non-demented APOE e3/e3 subjects.
+
+Wikgren M(1), Karlsson T, Lind J, Nilbrink T, Hultdin J, Sleegers K, Van
+Broeckhoven C, Roos G, Nilsson LG, Nyberg L, Adolfsson R, Norrback KF.
+
+Author information: 
+(1)Division of Psychiatry, Department of Clinical Sciences, Umeå University,
+Umeå, Sweden. mikael.wikgren@psychiat.umu.se
+
+Telomere length shortens with cellular division, and leukocyte telomere length is
+used as a marker for systemic telomere length. The hippocampus hosts adult
+neurogenesis and is an important structure for episodic memory, and carriers of
+the apolipoprotein E e4 allele exhibit higher hippocampal atrophy rates and
+differing telomere dynamics compared with non-carriers. The authors investigated 
+whether leukocyte telomere length was associated with hippocampal volume in 57
+cognitively intact subjects (29 e3/e3 carriers; 28 e4 carriers) aged 49-79 yr.
+Leukocyte telomere length correlated inversely with left (r(s)?=?-0.465;
+p?=?0.011), right (r(s)?=?-0.414; p?=?0.025), and total hippocampus volume
+(r(s)?=?-0.519; p?=?0.004) among APOE e3/e3 carriers, but not among e4 carriers. 
+However, the e4 carriers fit with the general correlation pattern exhibited by
+the e3/e3 carriers, as e4 carriers on average had longer telomeres and smaller
+hippocampi compared with e3/e3 carriers. The relationship observed can be
+interpreted as long telomeres representing a history of relatively low cellular
+proliferation, reflected in smaller hippocampal volumes. The results support the 
+potential of leukocyte telomere length being used as a biomarker for tapping
+functional and structural processes of the aging brain.
+
+PMCID: PMC3323621
+PMID: 22506016  [PubMed - indexed for MEDLINE]
+
+
+17. RNA. 2012 Jan;18(1):166-75. doi: 10.1261/rna.028431.111. Epub 2011 Nov 18.
+
+A quick and simple FISH protocol with hybridization-sensitive fluorescent linear 
+oligodeoxynucleotide probes.
+
+Wang DO(1), Matsuno H, Ikeda S, Nakamura A, Yanagisawa H, Hayashi Y, Okamoto A.
+
+Author information: 
+(1)Institute for Integrated Cell-Material Sciences, Kyoto University, Kyoto
+606-8501, Japan. dwang@icems.kyoto-u.ac.jp
+
+Fluorescence in situ hybridization (FISH) is a powerful tool used in karyotyping,
+cytogenotyping, cancer diagnosis, species specification, and gene-expression
+analysis. Although widely used, conventional FISH protocols are cumbersome and
+time consuming. We have now developed a FISH method using exciton-controlled
+hybridization-sensitive fluorescent oligodeoxynucleotide (ECHO) probes. ECHO-FISH
+uses a 25-min protocol from fixation to mounting that includes no stringency
+washing steps. We use ECHO-FISH to detect both specific DNA and RNA sequences
+with multicolor probes. ECHO-FISH is highly reproducible, stringent, and
+compatible with other fluorescent cellular labeling techniques. The resolution
+allows detection of intranuclear speckles of poly(A) RNA in HeLa cells and
+dissociated hippocampal primary cultures, and mRNAs in the distal dendrites of
+hippocampal neurons. We also demonstrate detection of telomeric and centromeric
+DNA on metaphase mouse chromosomes. The simplicity of the ECHO-FISH method will
+likely accelerate cytogenetic and gene-expression analysis with high resolution.
+
+PMCID: PMC3261739
+PMID: 22101241  [PubMed - indexed for MEDLINE]
+
+
+18. Behav Brain Res. 2012 Feb 14;227(2):497-507. doi: 10.1016/j.bbr.2011.10.009. Epub
+2011 Oct 18.
+
+New neurons in an aged brain.
+
+Lee SW(1), Clemenson GD, Gage FH.
+
+Author information: 
+(1)Laboratory of Genetics, The Salk Institute for Biological Studies, La Jolla,
+CA 92037, USA.
+
+Adult hippocampal neurogenesis is one of the most robust forms of synaptic
+plasticity in the nervous system and occurs throughout life. However, the rate of
+neurogenesis declines dramatically with age. Older animals have significantly
+less neural progenitor cell proliferation, neuronal differentiation, and newborn 
+neuron survival compared to younger animals. Intrinsic properties of neural
+progenitor cells, such as gene transcription and telomerase activity, change with
+age, which may contribute to the observed decline in neurogenesis. In addition,
+age-related changes in the local cells of the neurogenic niche may no longer
+provide neural progenitor cells with the cell-cell contact and soluble cues
+necessary for hippocampal neurogenesis. Astrocytes, microglia, and endothelial
+cells undergo changes in morphology and signaling properties with age, altering
+the foundation of the neurogenic niche. While most studies indicate a correlation
+between decreased hippocampal neurogenesis and impaired performance in
+hippocampus-dependent cognitive tasks in aged mice, a few have demonstrated that 
+young and aged mice are equivalent in their cognitive ability. Here, we summarize
+the different behavioral paradigms to test hippocampus-dependent cognition and
+the need to develop neurogenesis-dependent tasks.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+PMCID: PMC3264739
+PMID: 22024433  [PubMed - indexed for MEDLINE]
+
+
+19. Age (Dordr). 2012 Dec;34(6):1421-33. doi: 10.1007/s11357-011-9319-0. Epub 2011
+Oct 5.
+
+Psychological stress and aging: role of glucocorticoids (GCs).
+
+Hasan KM(1), Rahman MS, Arif KM, Sobhani ME.
+
+Author information: 
+(1)Biotechnology and Genetic Engineering Discipline, Khulna University,
+Bangladesh. mdihsn@hotmail.com
+
+Psychological stress has extreme adverse consequences on health. However, the
+molecular mechanisms that mediate and accelerate the process of aging due to
+stress hormone are not well defined. This review has focused on diverse molecular
+paths that come out in response to chronic psychological stress via releasing of 
+excessive glucocorticoids (GCs), involved in the aging process. GCs suppress
+transcription of nuclear cell adhesion molecules which impair synaptic
+plasticity, memory formation, and cognitive ability. Again, GCs promote muscle
+atrophy by means of motivating ubiquitin proteasome system and can repress muscle
+protein synthesis by inhibition of PI3-kinase/Akt pathway. GCs also inhibit
+interleukin-2 synthesis through suppressing T cell receptor signal that leads to 
+loss of T cell activation, proliferation, and B-cell activation. Moreover, GCs
+increase the expression of collagenase-3, RANK ligand, and colony stimulating
+factor-1 that induce bone resorption. In general, stress-induced GCs can play
+causal role for aging and age-related disorders.
+
+PMCID: PMC3528378
+PMID: 21971999  [PubMed - indexed for MEDLINE]
+
+
+20. J Neurosci. 2011 Aug 24;31(34):12258-69. doi: 10.1523/JNEUROSCI.0805-11.2011.
+
+Hippocampal telomerase is involved in the modulation of depressive behaviors.
+
+Zhou QG(1), Hu Y, Wu DL, Zhu LJ, Chen C, Jin X, Luo CX, Wu HY, Zhang J, Zhu DY.
+
+Author information: 
+(1)Department of Pharmacology, School of Pharmacy, Nanjing Medical University,
+Nanjing 210029, China.
+
+Telomere and telomerase alterations have been reported in mood disorders.
+However, the role of telomerase in depression remains unclear. Here we show that 
+chronic mild stress (CMS) led to a significant decrease in telomerase reverse
+transcriptase (TERT) level and telomerase activity in the hippocampus. Treatment 
+with antidepressant fluoxetine reversed the CMS-induced TERT and telomerase
+activity changes. Inhibiting telomerase by systemic administration (100 mg ·
+kg(-1) · d(-1), i.p., for 14 d), intrahippocampal microinjection (0.7 µmol, 2
+µl), or infusion (using an osmotic minipump, 0.134 µg/µl, 0.25 µl/h) of
+3'-azido-deoxythymidine (AZT) resulted in depression-like behaviors and impaired 
+hippocampal neurogenesis in mice. In contrast, overexpressing telomerase by
+intrahippocampal infusion of recombinant adenovirus vector expressing mouse TERT 
+(Ad-mTERT-GFP) led to neurogenesis upregulation, produced antidepressant-like
+behaviors, and prevented the CMS-induced behavioral modifications. Disrupting
+neurogenesis in the dentate gyrus by X-irradiation (15 Gy) of a restricted region
+of mouse brain containing the hippocampus abolished the antidepressant-like
+effect of Ad-mTERT-GFP. Additionally, AZT had no effect on DNA polymerase
+activity and did not cause cell damage in vitro and in vivo. Microinjection of
+AZT into the subventricular zone of lateral ventricle (0.7 µmol, 2 µl) inhibited 
+local neurogenesis but had no behavioral effect. These results suggest that
+hippocampal telomerase is involved in the modulation of depression-related
+behaviors, possibly by regulating adult neurogenesis.
+
+PMID: 21865469  [PubMed - indexed for MEDLINE]
+
+
+21. Brain. 2011 Jul;134(Pt 7):2044-56. doi: 10.1093/brain/awr133. Epub 2011 Jun 14.
+
+Telomere shortening reduces Alzheimer's disease amyloid pathology in mice.
+
+Rolyan H(1), Scheffold A, Heinrich A, Begus-Nahrmann Y, Langkopf BH, Hölter SM,
+Vogt-Weisenhorn DM, Liss B, Wurst W, Lie DC, Thal DR, Biber K, Rudolph KL.
+
+Author information: 
+(1)Department of Molecular Medicine and Max-Planck-Research Department for Stem
+Cell Aging, University of Ulm, D-89081 Ulm, Germany.
+
+Alzheimer's disease is a neurodegenerative disorder of the elderly and advancing 
+age is the major risk factor for Alzheimer's disease development. Telomere
+shortening represents one of the molecular causes of ageing that limits the
+proliferative capacity of cells, including neural stem cells. Studies on telomere
+lengths in patients with Alzheimer's disease have revealed contrary results and
+the functional role of telomere shortening on brain ageing and Alzheimer's
+disease is not known. Here, we have investigated the effects of telomere
+shortening on adult neurogenesis and Alzheimer's disease progression in mice. The
+study shows that aged telomerase knockout mice with short telomeres (G3Terc-/-)
+exhibit reduced dentate gyrus neurogenesis and loss of neurons in hippocampus and
+frontal cortex, associated with short-term memory deficit in comparison to mice
+with long telomere reserves (Terc+/+). In contrast, telomere shortening improved 
+the spatial learning ability of ageing APP23 transgenic mice, a mouse model for
+Alzheimer's disease. Telomere shortening was also associated with an activation
+of microglia in ageing amyloid-free brain. However, in APP23 transgenic mice,
+telomere shortening reduced both amyloid plaque pathology and reactive
+microgliosis. Together, these results provide the first experimental evidence
+that telomere shortening, despite impairing adult neurogenesis and maintenance of
+post-mitotic neurons, can slow down the progression of amyloid plaque pathology
+in Alzheimer's disease, possibly involving telomere-dependent effects on
+microglia activation.
+
+PMID: 21672962  [PubMed - indexed for MEDLINE]
+
+
+22. Acupunct Electrother Res. 2011;36(3-4):287-309.
+
+New clinical findings on the longevity gene in disease, health, & longevity:
+Sirtuin 1 often decreases with advanced age & serious diseases in most parts of
+the human body, while relatively high & constant Sirtuin 1 regardless of age was 
+first found in the hippocampus of supercentenarians.
+
+Omura Y(1), Lu DP, Jones M, O'Young B, Duvvi H, Paluch K, Shimotsuura Y, Ohki M.
+
+Author information: 
+(1)Heart Disease Research Foundation, USA. icaet@yahoo.com
+
+The expression of the longevity gene, Sirtuin 1, was non-invasively measured
+using Electro-Magnetic Field (EMF) resonance phenomenon between a known amount of
+polyclonal antibody of the C-terminal of Sirtuin 1 & Sirtuin 1 molecule inside of
+the body. Our measurement of over 100 human adult males and females, ranging
+between 20-122 years old, indicated that the majority of subjects had Sirtuin 1
+levels of 5-10 pg BDORT units in most parts of the body. When Sirtuin 1 was less 
+than 1 pg, the majority of the people had various degrees of tumors or other
+serious diseases. When Sirtuin 1 levels were less than 0.25 pg BDORT units, a
+high incidence of AIDS was also detected. Very few people had Sirtuin 1 levels of
+over 25 pg BDORT units in most parts of the body. We selected 7 internationally
+recognized supercentenarians who lived between 110-122 years old. To our
+surprise, most of their body Sirtuin 1 levels were between 2.5-10 pg BDORT units.
+However, by evaluating different parts of the brain, we found that both sides of 
+the Hippocampus had a much higher amount of Sirtuin 1, between 25-100 pg BDORT
+units. With most subjects, Sirtuin 1 was found to be higher in the Hippocampus
+than in the rest of the body and remains relatively constant regardless of age.
+We found that Aspartame, plastic eye contact lenses, and asbestos in dental
+apparatuses, which reduce normal cell telomeres, also significantly reduce
+Sirtuin 1. In addition, we found that increasing normal cell telomere by
+electrical or mechanical stimulation of True ST-36 increases the expression of
+the Sirtuin 1 gene in people in which expression is low. This measurement of
+Sirtuin 1 in the Hippocampus has become a reliable indicator for detecting
+potential longevity of an individual.
+
+PMID: 22443029  [PubMed - indexed for MEDLINE]
+
+
+23. Brain Behav Immun. 2011 Jul;25(5):971-80. doi: 10.1016/j.bbi.2010.10.014. Epub
+2010 Oct 21.
+
+Physical exercise increases adult neurogenesis and telomerase activity, and
+improves behavioral deficits in a mouse model of schizophrenia.
+
+Wolf SA(1), Melnik A, Kempermann G.
+
+Author information: 
+(1)Department of Cell and Neurobiology, University of Zürich, Zürich,
+Switzerland. Susanne.wolf@anatom.uzh.ch
+
+Epidemiological studies indicate that among other early life challenges, maternal
+infection with influenza during pregnancy increased the risk of developing
+schizophrenia in the child. One morphological manifestation of schizophrenia is
+hippocampal atrophy. In the hippocampus, playing a key role in learning and
+memory formation, new granule cell neurons are produced throughout life from
+resident precursor cells. We hypothesize that individuals exposed to a maternal
+anti-viral immune response would presumably enter life with a challenged neural
+precursor cell pool and might later be susceptible to psychiatric pathologies due
+to reduced adult neurogenesis. We used the injection of double-stranded RNA
+(polyriboinosinicpolyribocytidylic acid - PolyI:C) in pregnant C57Bl/6 and
+nestin-GFP reporter mice to induce a maternal viral-like infection and
+schizophrenia-like behavior in the offspring. In the progeny we found impairments
+in the open field test and in sensorimotor gating as measured by pre-pulse
+inhibition of the startle response. The behavioral deficits were accompanied by
+reduced baseline adult hippocampal neurogenesis. Telomerase activity in neural
+precursor cells was reduced from birth on and telomere shortening was found in
+the same cell type in adult life. When we subjected the progeny of viral-like
+infected dams to voluntary exercise, a known stimulus of adult hippocampal
+neurogenesis, we could rescue the phenotype in behavior, adult neurogenesis, and 
+cellular senescence. In summary, maternal viral-like immune response reduced
+telomerase activity and resulted in telomere shortening in neural precursor
+cells. Further we demonstrate that beneficial behavioral and cellular effects
+induced by exercise can be studied in a rodent model of schizophrenia.
+
+Copyright © 2010 Elsevier Inc. All rights reserved.
+
+PMID: 20970493  [PubMed - indexed for MEDLINE]
+
+
+24. Zhongguo Xiu Fu Chong Jian Wai Ke Za Zhi. 2010 May;24(5):588-93.
+
+[Telomerase reverse transcriptase expression and cell apoptosis during hypoxia
+ischemia brain damage in neonatal rats].
+
+[Article in Chinese]
+
+Zhao F(1), Qu Y, Tang B, Mao M, Mu D.
+
+Author information: 
+(1)Department of Pediatrics, West China Second Hospital, Sichuan University,
+Chengdu Sichuan 610041, PR China.
+
+OBJECTIVE: To investigate the expression of telomerase reverse transcriptase
+(TERT) and cell apoptosis in neonatal rats with hypoxia ischemia brain damage
+(HIBD).
+METHODS: A total of 42 7-day-old SD rats (12-18 g, male or female) were randomly 
+allocated into sham-operation group (n = 6) and hypoxia-ischemia (HI) group (n = 
+36). In HI group, the rats were anesthetized with ethyl ether. The right common
+carotid artery (CCA) was exposed and permanently ligated with a 7-0 silk suture
+through a midline cervical incision. A duration of 2.5 hours of hypoxia (8%O2 /
+92%N2) was used to produce HIBD model. For sham-operation group, the CCA was
+exposed without ligation or hypoxia. The brain tissues were harvested at 4, 8,
+12, 24, 48, and 72 hours after completion of an HI insult. The expressions of
+TERT and CC3 were detected by immunohistochemical staining. The apoptosis cells
+were detected with TUNEL staining method.
+RESULTS: The expression of TERT was increased at 4 hours after HI injury,
+significantly increased at 24-48 hours and then decreased at 72 hours. The
+expression of CC3 was increased at 4 hours after HI injury, significantly
+increased at 24 hours and still maintained high expression at 48 hours and 72
+hours. However, in the sham-operation group, both the expressions of TERT and CC3
+were extremely low. The expression of TERT and CC3 were higher in the HI group
+than in the sham-operation group at different time points, and the differences
+were significant (P < 0.05). The TUNEL staining showed that the positive cells in
+hippocampus and cortical areas were increased at 4 hours after HI injury,
+significantly increased at 24-48 hours and maintained a high level at 72 hours.
+However, there was few positive cells in the sham-operation group. There were
+significant differences between the HI group and the sham-operation group at
+different time points (P < 0.05).
+CONCLUSION: TERT could be induced by HI in neonatal rats, and might have a
+protective role in regulating the cell apoptosis in the neonatal HIBD.
+
+PMID: 20540267  [PubMed - indexed for MEDLINE]
+
+
+25. Neurogenetics. 2010 May;11(2):145-51. doi: 10.1007/s10048-009-0226-9. Epub 2009
+Nov 6.
+
+Atp10a, a gene adjacent to the PWS/AS gene cluster, is not imprinted in mouse and
+is insensitive to the PWS-IC.
+
+DuBose AJ(1), Johnstone KA, Smith EY, Hallett RA, Resnick JL.
+
+Author information: 
+(1)Department of Molecular Genetics and Microbiology, University of Florida
+College of Medicine, Gainesville, Florida, 32610-0266, USA.
+
+Mutations affecting a cluster of coordinately regulated imprinted genes located
+at 15q11-q13 underlie both Prader-Willi syndrome (PWS) and Angelman syndrome
+(AS). Disruption of the predominately maternally expressed UBE3A locus is
+sufficient to meet diagnostic criteria for AS. However, AS patients with a
+deletion of the entire PWS/AS locus often have more severe traits than patients
+with point mutations in UBE3A suggesting that other genes contribute to the
+syndrome. ATP10A resides 200 kb telomeric to UBE3A and is of uncertain imprinted 
+status. An initial report indicated bialleleic expression of the murine Atp10a in
+all tissues, but a subsequent report suggests that Atp10a is predominantly
+maternally expressed in the hippocampus and olfactory bulb. To resolve this
+discrepancy, we investigated Atp10a allelic expression in the brain, DNA
+methylation status, and sensitivity to mutations of the PWS imprinting center, an
+element required for imprinted gene expression in the region. We report that
+Atp10a is biallelically expressed in both the newborn and adult brain, and Atp10a
+allelic expression is insensitive to deletion or mutation of the PWS imprinting
+center. The CpG island associated with Atp10a is hypomethylated, a result
+consistent with the notion that Atp10a is not an imprinted gene.
+
+PMID: 19894069  [PubMed - indexed for MEDLINE]
+
+
+26. Hum Mol Genet. 2009 Dec 15;18(24):4756-69. doi: 10.1093/hmg/ddp438. Epub 2009 Sep
+26.
+
+A new mouse model for the trisomy of the Abcg1-U2af1 region reveals the
+complexity of the combinatorial genetic code of down syndrome.
+
+Pereira PL(1), Magnol L, Sahún I, Brault V, Duchon A, Prandini P, Gruart A, Bizot
+JC, Chadefaux-Vekemans B, Deutsch S, Trovero F, Delgado-García JM, Antonarakis
+SE, Dierssen M, Herault Y.
+
+Author information: 
+(1)Molecular Embryology and Immunology, Université d'Orléans, UMR6218, Orléans
+Cedex 2, France.
+
+Mental retardation in Down syndrome (DS), the most frequent trisomy in humans,
+varies from moderate to severe. Several studies both in human and based on mouse 
+models identified some regions of human chromosome 21 (Hsa21) as linked to
+cognitive deficits. However, other intervals such as the telomeric region of
+Hsa21 may contribute to the DS phenotype but their role has not yet been
+investigated in detail. Here we show that the trisomy of the 12 genes, found in
+the 0.59 Mb (Abcg1-U2af1) Hsa21 sub-telomeric region, in mice (Ts1Yah) produced
+defects in novel object recognition, open-field and Y-maze tests, similar to
+other DS models, but induces an improvement of the hippocampal-dependent spatial 
+memory in the Morris water maze along with enhanced and longer lasting long-term 
+potentiation in vivo in the hippocampus. Overall, we demonstrate the contribution
+of the Abcg1-U2af1 genetic region to cognitive defect in working and short-term
+recognition memory in DS models. Increase in copy number of the Abcg1-U2af1
+interval leads to an unexpected gain of cognitive function in spatial learning.
+Expression analysis pinpoints several genes, such as Ndufv3, Wdr4, Pknox1 and
+Cbs, as candidates whose overexpression in the hippocampus might facilitate
+learning and memory in Ts1Yah mice. Our work unravels the complexity of
+combinatorial genetic code modulating different aspect of mental retardation in
+DS patients. It establishes definitely the contribution of the Abcg1-U2af1
+orthologous region to the DS etiology and suggests new modulatory pathways for
+learning and memory.
+
+PMCID: PMC2778371
+PMID: 19783846  [PubMed - indexed for MEDLINE]
+
+
+27. Neurochem Res. 2010 Feb;35(2):211-8. doi: 10.1007/s11064-009-0044-3. Epub 2009
+Aug 15.
+
+Telomerase deficiency affects normal brain functions in mice.
+
+Lee J(1), Jo YS, Sung YH, Hwang IK, Kim H, Kim SY, Yi SS, Choi JS, Sun W, Seong
+JK, Lee HW.
+
+Author information: 
+(1)Department of Molecular Cell Biology, Sungkyunkwan University School of
+Medicine, Suwon 440-746, Korea.
+
+Telomerase maintains telomere structures and chromosome stability, and it is
+essential for preserving the characteristics of stem and progenitor cells. In the
+brain, the hippocampus and the olfactory bulbs are continuously supplied with
+neural stem and progenitor cells that are required for adult neurogenesis
+throughout the life. Therefore, we examined whether telomerase plays important
+roles in maintaining normal brain functions in vivo. Telomerase reverse
+transcriptase (TERT) expression was observed in the hippocampus, the olfactory
+bulbs, and the cerebellum, but the telomerase RNA component (TERC) was not
+detected in hippocampus and olfactory bulbs. Interestingly, TERT-deficient mice
+exhibited significantly altered anxiety-like behaviors and abnormal olfaction
+measuring the functions of the hippocampus and the olfactory bulbs, respectively.
+However, the cerebellum-dependent behavior was not changed in these mutant mice. 
+These results suggest that TERT is constitutively expressed in the hippocampus
+and the olfactory bulbs, and that it is important for regulating normal brain
+functions.
+
+PMID: 19685288  [PubMed - indexed for MEDLINE]
+
+
+28. Acupunct Electrother Res. 2009;34(3-4):175-203.
+
+Temporary anti-cancer & anti-pain effects of mechanical stimulation of any one of
+3 front teeth (1st incisor, 2nd incisor, & canine) of right & left side of upper 
+& lower jaws and their possible mechanism, & relatively long term disappearance
+of pain & cancer parameters by one optimal dose of DHEA, Astragalus, Boswellia
+Serrata, often with press needle stimulation of True ST. 36.
+
+Omura Y(1), Horiuchi N, Jones MK, Lu DP, Shimotsuura Y, Duvvi H, Pallos A, Ohki
+M, Suetsugu A.
+
+Author information: 
+(1)Dept. of Community & Preventive Medicine, New York Medical College, USA.
+icaet@yahoo.com
+
+One minute downward pressure on the tip of any one of the front 3 teeth (1st
+incisor, 2nd incisor, and canine) at the right and left sides of the upper and
+lower jaw by a wooden toothpick induced temporary disappearance (20 min
+approximately 4 hours) of abnormally increased pain parameters (pain grading,
+Substance P, & TXB2), and cancer parameters (Telomere, Integrin alpha5beta1,
+Oncogene C-fos Ab2, etc. of Astrocytoma, Glioblastoma, squamous cell carcinoma of
+esophagus, adenocarcinoma of lung, breast cancer, adenocarcinoma of colon,
+prostate cancer). The effect included temporary disappearance of headache,
+toothache, chest and abdominal pain, and backache, often with improved memory &
+concentration. Since these beneficial changes resembled the effects of giving one
+optimal dose of DHEA, increase of DHEA was measured. Above mechanical stimulation
+of one of these front teeth increased abnormally reduced DHEA levels of less than
+10 ng to norm1 100 approximately 130 ng BDORT units and normal cell (NC)
+telomeres from markedly reduced values to near normal values, and improved
+acetylcholine in the Hippocampus. Large organ representation areas for the
+Adrenal gland & Hippocampus may exist at these front teeth. This method can be
+used for emergency pain control and can explain the beneficial effect of bruxism 
+and tooth brushing, through the increase of DHEA levels and activities of the
+Hippocampus by increasing Acetylcholine. Increasing NC telomere to optimally high
+level resulted in disappearance of pain and improvement or significant reduction 
+of malignant tumor. Repeated daily press needle stimulation of True ST. 36
+increased NC telomere 450-700 ng BDORT units. One optimal dose of DHEA increased 
+NC telomere 525 ng DBORT units and eliminated the pain and abnormally increased
+cancer parameters; effect of one optimal dose lasted 0.5-11 months. One optimal
+dose of Boswellia Serrata or Astragalus not only increased NC telomere 650 ng
+BDORT units, eliminating pain and cancer parameters, but also reduced the size of
+the Astrocytoma grade I by 10-20% and the Glioblastoma by 15-90% in less than 2-6
+months in some patients, as long as high NC telomere is maintained.
+
+PMID: 20344885  [PubMed - indexed for MEDLINE]
+
+
+29. PLoS One. 2008 Feb 13;3(2):e1590. doi: 10.1371/journal.pone.0001590.
+
+Shorter telomeres may mark early risk of dementia: preliminary analysis of 62
+participants from the nurses' health study.
+
+Grodstein F(1), van Oijen M, Irizarry MC, Rosas HD, Hyman BT, Growdon JH, De Vivo
+I.
+
+Author information: 
+(1)Channing Laboratory, Department of Medicine, Brigham and Women's Hospital, and
+Harvard Medical School, Boston, Massachusetts, USA. fgrodstein@partners.org
+
+BACKGROUND: Dementia takes decades to develop, and effective prevention will
+likely require early intervention. Thus, it is critical to identify biomarkers of
+preclinical disease, allowing targeting of high-risk subjects for preventive
+efforts. Since telomeres shorten with age and oxidative stress, both of which are
+important contributors to the onset of dementia, telomere length might be a
+valuable biomarker.
+METHODOLOGY/PRINCIPAL FINDINGS: Among 62 participants of the Nurses' Health
+Study, we conducted neurologic evaluations, including patient and caregiver
+interviews, physical exam, neurologic exam, and neuropsychologic testing. We also
+conducted magnetic resonance imaging (MRI) in a sample of 29 of these women. In
+these preliminary data, after adjustment for numerous health and lifestyle
+factors, we found that truncated telomeres in peripheral blood leukocytes
+segregate with preclinical dementia states, including mild cognitive impairment
+(MCI); the odds of MCI were 12-fold higher (odds ratio = 12.00, 95% confidence
+interval 1.24-116.5) for those with shorter telomere length compared to longer
+telomere length. In addition, decreasing telomere length was strongly related to 
+decreasing hippocampal volume (p = 0.038).
+CONCLUSIONS: These preliminary data suggest that telomere length may be a
+possible early marker of dementia risk, and merits further study in large,
+prospective investigations.
+
+PMCID: PMC2536511
+PMID: 18795148  [PubMed - indexed for MEDLINE]
+
+
+30. J Neurosci. 2008 Sep 10;28(37):9194-204. doi: 10.1523/JNEUROSCI.3314-07.2008.
+
+Noggin expands neural stem cells in the adult hippocampus.
+
+Bonaguidi MA(1), Peng CY, McGuire T, Falciglia G, Gobeske KT, Czeisler C, Kessler
+JA.
+
+Author information: 
+(1)Davee Department of Neurology, Northwestern University's Feinberg School of
+Medicine, Chicago, Illinois 60611, USA. mbonagu1@jhmi.edu
+
+New neurons are added to the adult hippocampus throughout life and contribute to 
+cognitive functions, including learning and memory. It remains unclear whether
+ongoing neurogenesis arises from self-renewing neural stem cells (NSCs) or from
+multipotential progenitor cells that cannot self-renew in the hippocampus. This
+is primarily based on observations that neural precursors derived from the
+subventricular zone (SVZ) can be passaged long term, whereas hippocampal
+subgranular zone (SGZ) precursors are rapidly depleted by passaging. We
+demonstrate here that high levels of bone morphogenetic protein (BMP) signaling
+occur in hippocampal but not SVZ precursors in vitro, and blocking BMP signaling 
+with Noggin is sufficient to foster hippocampal cell self-renewal, proliferation,
+and multipotentiality using single-cell clonal analysis. Moreover, NSC
+maintenance requires continual Noggin exposure, which implicates BMPs as crucial 
+regulators of NSC aging. In vivo, Noggin is expressed in the adult dentate gyrus 
+and limits BMP signaling in proliferative cells of the SGZ. Transgenic Noggin
+overexpression in the SGZ increases multiple precursor cell populations but
+proportionally increases the glial fibrillary acidic protein-positive cell
+population at the expense of other precursors, suggesting that Noggin acts on
+NSCs in vivo. To confirm this, we used a dual thymidine analog paradigm to
+repeatedly label slowly dividing cells over a long duration. We find that small
+populations of label-retaining cells exist in the SGZ and that Noggin
+overexpression increases their numbers. Thus, we propose that the adult
+hippocampus contains a population of NSCs, which can be expanded both in vitro
+and in vivo by blocking BMP signaling.
+
+PMCID: PMC3651371
+PMID: 18784300  [PubMed - indexed for MEDLINE]
+
+
+31. Stem Cells. 2008 Oct;26(10):2654-63. doi: 10.1634/stemcells.2008-0285. Epub 2008 
+Aug 7.
+
+Putative dental pulp-derived stem/stromal cells promote proliferation and
+differentiation of endogenous neural cells in the hippocampus of mice.
+
+Huang AH(1), Snyder BR, Cheng PH, Chan AW.
+
+Author information: 
+(1)Grace Dental Clinic, Kaohsiung City, Taiwan.
+
+Until now, interest in dental pulp stem/stromal cell (DPSC) research has centered
+on mineralization and tooth repair. Beginning a new paradigm in DPSC research, we
+grafted undifferentiated, untreated DPSCs into the hippocampus of
+immune-suppressed mice. The rhesus DPSC (rDPSC) line used was established from
+the dental pulp of rhesus macaques and found to be similar to human bone
+marrow/mesenchymal stem cells, which express Nanog, Rex-1, Oct-4, and various
+cell surface antigens, and have multipotent differentiation capability.
+Implantation of rDPSCs into the hippocampus of mice stimulated proliferation of
+endogenous neural cells and resulted in the recruitment of pre-existing Nestin(+)
+neural progenitor cells (NPCs) and beta-tubulin-III(+) mature neurons to the site
+of the graft. Additionally, many cells born during the first 7 days after
+implantation proliferated, forming NPCs and neurons, and, to a lesser extent,
+underwent astrogliosis, forming astrocytes and microglia, by 30 days after
+implantation. Although the DPSC graft itself was short term, it had long-term
+effects by promoting growth factor signaling. Implantation of DPSCs enhanced the 
+expression of ciliary neurotrophic factor, vascular endothelial growth factor,
+and fibroblast growth factor for up to 30 days after implantation. In conclusion,
+grafting rDPSCs promotes proliferation, cell recruitment, and maturation of
+endogenous stem/progenitor cells by modulating the local microenvironment. Our
+results suggest that DPSCs have a valuable, unique therapeutic potential,
+specifically as a stimulator and modulator of the local repair response in the
+central nervous system. DPSCs would be a preferable cell source for therapy due
+to the possibility of a "personalized" stem cell, avoiding the problems
+associated with host immune rejection. Disclosure of potential conflicts of
+interest is found at the end of this article.
+
+PMCID: PMC4416417
+PMID: 18687995  [PubMed - indexed for MEDLINE]
+
+
+32. J Neurochem. 2008 Aug;106(4):1900-13. doi: 10.1111/j.1471-4159.2008.05554.x. Epub
+2008 Jul 9.
+
+Negative regulation of neurogenesis and spatial memory by NR2B-containing NMDA
+receptors.
+
+Hu M(1), Sun YJ, Zhou QG, Chen L, Hu Y, Luo CX, Wu JY, Xu JS, Li LX, Zhu DY.
+
+Author information: 
+(1)Laboratory of Cerebrovascular Disease, Nanjing Medical University, and
+Department of Pharmacology, School of Pharmacy, China Pharmaceutical University, 
+Nanjing, China.
+
+Several lines of evidence suggest involvement of NMDA receptors (NMDARs) in the
+regulation of neurogenesis in adults and the formation of spatial memory.
+Functional properties of NMDARs are strongly influenced by the type of NR2
+subunits incorporated. In adult forebrain regions such as the hippocampus and
+cortex, only NR2A and NR2B subunits are available to form the receptor complex
+with NR1 subunit. NR2B is predominant NR2 subunit in any of rat or human neural
+stem cells (NSCs). Thus, we suppose that NR2B-containing NMDAR should be critical
+in regulating adult neurogenesis, and thereby playing a role in the formation of 
+spatial memory. In the cultured NSCs derived from the embryonic brain of rats,
+NR2B subunit-specific NMDAR antagonist Ro25-6981 increased cell proliferation,
+whereas MK-801, non-selective open-channel blocker of NMDARs, inhibited cell
+proliferation. Blockade of NR2B-containing NMDAR stimulated neurogenesis in the
+adult hippocampus and facilitated the formation of spatial memory. The enhanced
+spatial memory dropped back to base level when the NR2B antagonist-induced
+neurogenesis was neutralized by 3'-azido-deoxythymidine, a telomerase inhibitor. 
+In addition, blockade of NR2B inhibited neuronal nitric oxide synthase (nNOS)
+enzymatic activity. In null mutant mice lacking nNOS gene (nNOS-/-), the effects 
+of NR2B antagonist on neurogenesis disappeared. Moreover, nitric oxide donor
+DETA/NONOate attenuated and nNOS inhibitor 7-nitroindazole enhanced the effect of
+Ro 25-6981 on NSCs proliferation. Our findings suggest that NR2B-containing NMDAR
+subtypes negatively regulate neurogenesis in the adult hippocampus by activating 
+nNOS activity and thereby hinder the formation of spatial memory.
+
+PMID: 18624924  [PubMed - indexed for MEDLINE]
+
+
+33. Psychopharmacology (Berl). 2008 Oct;200(2):231-42. doi:
+10.1007/s00213-008-1200-1. Epub 2008 May 30.
+
+DETA/NONOate, a nitric oxide donor, produces antidepressant effects by promoting 
+hippocampal neurogenesis.
+
+Hua Y(1), Huang XY, Zhou L, Zhou QG, Hu Y, Luo CX, Li F, Zhu DY.
+
+Author information: 
+(1)Department of Pharmacology, School of Pharmacy, Nanjing Medical University,
+Nanjing, 210029, China.
+
+RATIONALE: Increasing evidence suggests that depression may be associated with a 
+lack of hippocampal neurogenesis. Our recent study shows that endogenous nitric
+oxide (NO) contributes to chronic mild stress (CMS)-induced depression by
+suppressing hippocampal neurogenesis.
+OBJECTIVES: The aim of this study was to investigate the effects of exogenous NO 
+in CMS-induced depression in young adult mice.
+RESULTS: In normal mice, administration of a pure NO donor
+(Z)-1-[N-(2-aminoethyl)-N-(2-ammonioethyl) aminio] diazen-1-ium-1,2-diolate
+(DETA/NONOate; 0.4 mg/kg, i.p., for 7 days) produced an antidepressant-like
+effect and significantly increased hippocampal neurogenesis. The mice exposed to 
+CMS exhibited behavioral changes typical of depression and impaired neurogenesis 
+in the hippocampus. Treatment with DETA/NONOate (0.4 mg/kg, i.p., for 7 days)
+reversed CMS-induced behavioral despair and hippocampal neurogenesis impairment. 
+We treated mice with a telomerase inhibitor 3'-azido-deoxythymidine (AZT; 100
+mg/kg, i.p., for 14 days) to disrupt neurogenesis. From day 4 to day 11 of AZT
+treatment, mice were injected with DETA/NONOate (0.4 mg/kg, i.p., for 7 days).
+Disrupting hippocampal neurogenesis blocked the antidepressant effect of
+DETA/NONOate.
+CONCLUSIONS: Our findings suggest that exogenous NO benefits chronic
+stress-induced depression by stimulating hippocampal neurogenesis and may
+represent a novel approach for the treatment of depressive disorders.
+
+PMID: 18512047  [PubMed - indexed for MEDLINE]
+
+
+34. World J Biol Psychiatry. 2008;9(1):2-5. doi: 10.1080/15622970701875601.
+
+When blue turns to grey: do stress and depression accelerate cell aging?
+
+Wolkowitz OM, Epel ES, Mellon S.
+
+PMID: 18273736  [PubMed - indexed for MEDLINE]
+
+
+35. Mech Ageing Dev. 2008 Apr;129(4):183-90. doi: 10.1016/j.mad.2007.12.004. Epub
+2008 Feb 1.
+
+Telomere length in white blood cells, buccal cells and brain tissue and its
+variation with ageing and Alzheimer's disease.
+
+Thomas P(1), O' Callaghan NJ, Fenech M.
+
+Author information: 
+(1)CSIRO Human Nutrition, Adelaide BC, Adelaide, SA, Australia.
+philip.thomas@csiro.au
+
+Changes in telomere length have been associated with ageing and with certain
+age-related degenerative diseases. We report results using a quantitative RTm-PCR
+method to measure absolute telomere length (in kb per diploid genome) and show
+the age-related changes in white blood cells and buccal cell telomere length (in 
+kb per diploid genome) in normal healthy individuals and Alzheimer's patients. We
+observed a significantly lower telomere length in white blood cells (P < 0.0001) 
+and buccal cells (P < 0.01) in Alzheimer's patients relative to healthy
+age-matched controls (31.4% and 32.3%, respectively). However, there was a
+significantly greater telomere length in hippocampus cells of Alzheimer's brains 
+(P = 0.01) compared to control samples (49.0%). We also observed that telomere
+length in buccal cells was 52.2-74.2% shorter than that observed in white blood
+cells (P < 0.0001). The odd's ratio of being diagnosed with Alzheimer's disease
+(AD) was 10.8 (95% CI 1.19-97.85) if white blood cell telomere length was less
+than 115 kb per diploid genome with a specificity of 46% and sensitivity of
+92.9%. The odds ratio for AD diagnosis was 4.6 (95% CI 1.22-17.16) if buccal cell
+telomere length was less than 40 kb per diploid genome with a sensitivity of
+72.7% and a specificity of 63.1%. These results suggest important differences in 
+telomere maintenance in Alzheimer's cases compared to healthy controls depending 
+on sampled tissue. These results need to be replicated in larger studies and in
+cohorts of other neurodegenerative disorders to determine specificity of changes 
+to Alzheimer's patients.
+
+PMID: 18242664  [PubMed - indexed for MEDLINE]
+
+
+36. Genome Biol. 2007;8(11):R234.
+
+Gene expression atlas of the mouse central nervous system: impact and
+interactions of age, energy intake and gender.
+
+Xu X(1), Zhan M, Duan W, Prabhu V, Brenneman R, Wood W, Firman J, Li H, Zhang P, 
+Ibe C, Zonderman AB, Longo DL, Poosala S, Becker KG, Mattson MP.
+
+Author information: 
+(1)Laboratory of Neurosciences, National Institute on Aging Intramural Research
+Program, 5600 Nathan Shock Drive, Baltimore, MD 21224, USA. xuxi@grc.nia.nih.gov
+
+BACKGROUND: The structural and functional complexity of the mammalian central
+nervous system (CNS) is organized and modified by complicated molecular signaling
+processes that are poorly understood.
+RESULTS: We measured transcripts of 16,896 genes in 5 CNS regions from cohorts of
+young, middle-aged and old male and female mice that had been maintained on
+either a control diet or a low energy diet known to retard aging. Each CNS region
+(cerebral cortex, hippocampus, striatum, cerebellum and spinal cord) possessed
+its own unique transcriptome fingerprint that was independent of age, gender and 
+energy intake. Less than 10% of genes were significantly affected by age, diet or
+gender, with most of these changes occurring between middle and old age. The
+transcriptome of the spinal cord was the most responsive to age, diet and gender,
+while the striatal transcriptome was the least responsive. Gender and energy
+restriction had particularly robust influences on the hippocampal transcriptome
+of middle-aged mice. Prominent functional groups of age- and energy-sensitive
+genes were those encoding proteins involved in DNA damage responses (Werner and
+telomere-associated proteins), mitochondrial and proteasome functions, cell fate 
+determination (Wnt and Notch signaling) and synaptic vesicle trafficking.
+CONCLUSION: Mouse CNS transcriptomes responded to age, energy intake and gender
+in a regionally distinctive manner. The systematic transcriptome dataset also
+provides a window into mechanisms of age-, diet- and sex-related CNS plasticity
+and vulnerability.
+
+PMCID: PMC2258177
+PMID: 17988385  [PubMed - indexed for MEDLINE]
+
+
+37. Proc Natl Acad Sci U S A. 2007 Mar 20;104(12):5163-8. Epub 2007 Mar 2.
+
+Evolving the lock to fit the key to create a family of G protein-coupled
+receptors potently activated by an inert ligand.
+
+Armbruster BN(1), Li X, Pausch MH, Herlitze S, Roth BL.
+
+Author information: 
+(1)Department of Biochemistry, Case Western Reserve University School of
+Medicine, Cleveland, OH 44106, USA.
+
+Comment in
+    Proc Natl Acad Sci U S A. 2007 Mar 20;104(12):4777-8.
+
+We evolved muscarinic receptors in yeast to generate a family of G
+protein-coupled receptors (GPCRs) that are activated solely by a
+pharmacologically inert drug-like and bioavailable compound (clozapine-N-oxide). 
+Subsequent screening in human cell lines facilitated the creation of a family of 
+muscarinic acetylcholine GPCRs suitable for in vitro and in situ studies. We
+subsequently created lines of telomerase-immortalized human pulmonary artery
+smooth muscle cells stably expressing all five family members and found that each
+one faithfully recapitulated the signaling phenotype of the parent receptor. We
+also expressed a G(i)-coupled designer receptor in hippocampal neurons (hM(4)D)
+and demonstrated its ability to induce membrane hyperpolarization and neuronal
+silencing. We have thus devised a facile approach for designing families of GPCRs
+with engineered ligand specificities. Such reverse-engineered GPCRs will prove to
+be powerful tools for selectively modulating signal-transduction pathways in
+vitro and in vivo.
+
+PMCID: PMC1829280
+PMID: 17360345  [PubMed - indexed for MEDLINE]
+
+
+38. J Neurochem. 2006 Jul;98(2):629-40. Epub 2006 Jun 12.
+
+Mesodermal cell types induce neurogenesis from adult human hippocampal progenitor
+cells.
+
+Hermann A(1), Maisel M, Liebau S, Gerlach M, Kleger A, Schwarz J, Kim KS,
+Antoniadis G, Lerche H, Storch A.
+
+Author information: 
+(1)Department of Neurology, Technical University of Dresden, Dresden, Germany.
+
+Neurogenesis in the adult human brain occurs within two principle neurogenic
+regions, the hippocampus and the subventricular zone (SVZ) of the lateral
+ventricles. Recent reports demonstrated the isolation of human neuroprogenitor
+cells (NPCs) from these regions, but due to limited tissue availability the
+knowledge of their phenotype and differentiation behavior is restricted. Here we 
+characterize the phenotype and differentiation capacity of human adult
+hippocampal NPCs (hNPCs), derived from patients who underwent epilepsy surgery,
+on various feeder cells including fetal mixed cortical cultures, mouse embryonic 
+fibroblasts (MEFs) and PA6 stromal cells. Isolated hNPCs were cultured in clonal 
+density by transferring the cells to serum-free media supplemented with FGF-2 and
+EGF in 3% atmospheric oxygen. These hNPCs showed neurosphere formation, expressed
+high levels of early neuroectodermal markers, such as the proneural genes NeuroD1
+and Olig2, the NSC markers Nestin and Musashi1, the proliferation marker Ki67 and
+significant activity of telomerase. The phenotype was CD15low/-, CD34-, CD45- and
+CD133-. After removal of mitogens and plating them on poly D-lysine, they
+spontaneously differentiated into a neuronal (MAP2ab+), astroglial (GFAP+), and
+oligodendroglial (GalC+) phenotype. Differentiated hNPCs showed functional
+properties of neurons, such as sodium channels, action potentials and production 
+of the neurotransmitters glutamate and GABA. Co-culture of hNPCs with fetal
+cortical cultures, MEFs and PA6 cells increased neurogenesis of hNPCs in vitro,
+while only MEFs and PA6 cells also led to a morphological and functional
+neurogenic maturation. Together we provide a first detailed characterization of
+the phenotype and differentiation potential of human adult hNPCs in vitro. Our
+findings reinforce the emerging view that the differentiation capacity of adult
+hNPCs is critically influenced by non-neuronal mesodermal feeder cells.
+
+PMID: 16771838  [PubMed - indexed for MEDLINE]
+
+
+39. J Neurochem. 2006 Apr;97(2):567-81. Epub 2006 Mar 15.
+
+TRF2 dysfunction elicits DNA damage responses associated with senescence in
+proliferating neural cells and differentiation of neurons.
+
+Zhang P(1), Furukawa K, Opresko PL, Xu X, Bohr VA, Mattson MP.
+
+Author information: 
+(1)Laboratory of Neurosciences, National Institute on Aging Intramural Research
+Program, Baltimore, MD 21224, USA.
+
+Telomeres are specialized structures at the ends of chromosomes that consist of
+tandem repeats of the DNA sequence TTAGGG and several proteins that protect the
+DNA and regulate the plasticity of the telomeres. The telomere-associated protein
+TRF2 (telomeric repeat binding factor 2) is critical for the control of telomere 
+structure and function; TRF2 dysfunction results in the exposure of the telomere 
+ends and activation of ATM (ataxia telangiectasin mutated)-mediated DNA damage
+response. Recent findings suggest that telomere attrition can cause senescence or
+apoptosis of mitotic cells, but the function of telomeres in differentiated
+neurons is unknown. Here, we examined the impact of telomere dysfunction via TRF2
+inhibition in neurons (primary embryonic hippocampal neurons) and mitotic neural 
+cells (astrocytes and neuroblastoma cells). We demonstrate that telomere
+dysfunction induced by adenovirus-mediated expression of dominant-negative TRF2
+(DN-TRF2) triggers a DNA damage response involving the formation of nuclear foci 
+containing phosphorylated histone H2AX and activated ATM in each cell type. In
+mitotic neural cells DN-TRF2 induced activation of both p53 and p21 and
+senescence (as indicated by an up-regulation of beta-galactosidase). In contrast,
+in neurons DN-TRF2 increased p21, but neither p53 nor beta-galactosidase was
+induced. In addition, TRF2 inhibition enhanced the morphological, molecular and
+biophysical differentiation of hippocampal neurons. These findings demonstrate
+divergent molecular and physiological responses to telomere dysfunction in
+mitotic neural cells and neurons, indicate a role for TRF2 in regulating neuronal
+differentiation, and suggest a potential therapeutic application of inhibition of
+TRF2 function in the treatment of neural tumors.
+
+PMID: 16539655  [PubMed - indexed for MEDLINE]
+
+
+40. J Med Genet. 2005 Apr;42(4):299-306.
+
+Disruption of the gene Euchromatin Histone Methyl Transferase1 (Eu-HMTase1) is
+associated with the 9q34 subtelomeric deletion syndrome.
+
+Kleefstra T(1), Smidt M, Banning MJ, Oudakker AR, Van Esch H, de Brouwer AP,
+Nillesen W, Sistermans EA, Hamel BC, de Bruijn D, Fryns JP, Yntema HG, Brunner
+HG, de Vries BB, van Bokhoven H.
+
+Author information: 
+(1)Department of Human Genetics, University Medical Centre St Radboud, Nijmegen, 
+The Netherlands.
+
+BACKGROUND: A new syndrome has been recognised following thorough analysis of
+patients with a terminal submicroscopic subtelomeric deletion of chromosome 9q.
+These have in common severe mental retardation, hypotonia, brachycephaly, flat
+face with hypertelorism, synophrys, anteverted nares, thickened lower lip, carp
+mouth with macroglossia, and conotruncal heart defects. The minimum critical
+region responsible for this 9q subtelomeric deletion syndrome (9q-) is
+approximately 1.2 Mb and encompasses at least 14 genes.
+OBJECTIVE: To characterise the breakpoints of a de novo balanced translocation
+t(X;9)(p11.23;q34.3) in a mentally retarded female patient with clinical features
+similar to the 9q- syndrome.
+RESULTS: Sequence analysis of the break points showed that the translocation was 
+fully balanced and only one gene on chromosome 9 was disrupted--Euchromatin
+Histone Methyl Transferase1 (Eu-HMTase1)--encoding a histone H3 lysine 9
+methyltransferase (H3-K9 HMTase). This indicates that haploinsufficiency of
+Eu-HMTase1 is responsible for the 9q submicroscopic subtelomeric deletion
+syndrome. This observation was further supported by the spatio-temporal
+expression of the gene. Using tissue in situ hybridisation studies in mouse
+embryos and adult brain, Eu-HMTase1 was shown to be expressed in the developing
+nervous system and in specific peripheral tissues. While expression is
+selectively downregulated in adult brain, substantial expression is retained in
+the olfactory bulb, anterior/ventral lateral ventricular wall, and hippocampus
+and weakly in the piriform cortex.
+CONCLUSIONS: The expression pattern of this gene suggests a role in the CNS
+development and function, which is in line with the severe mental retardation and
+behaviour problems in patients who lack one copy of the gene.
+
+PMCID: PMC1736026
+PMID: 15805155  [PubMed - indexed for MEDLINE]
+
+
+41. J Neurochem. 2004 Feb;88(4):1026-39.
+
+Sphingosine-1-phosphate induces proliferation and morphological changes of neural
+progenitor cells.
+
+Harada J(1), Foley M, Moskowitz MA, Waeber C.
+
+Author information: 
+(1)Stroke and Neurovascular Regulation Laboratory, Department of Radiology,
+Massachusetts General Hospital and Harvard Medical School, Charlestown,
+Massachusetts 02129, USA.
+
+Sphingosine-1-phosphate (S1P) is a lipid mediator that exerts multiple cellular
+functions through activation of G-protein-coupled receptors. Although the role of
+S1P on angiogenesis is well established, its role in neurogenesis is unknown. We 
+examined the effects of S1P on G-protein activation in brain sections of rat
+embryo and on neural progenitor cells in culture. Intense S1P-stimulated
+[35S]GTPgammaS labeling was observed as early as E15 in the neuroepithelium and
+differentiating fields throughout the brain, suggesting that functional S1P
+receptors are expressed in brain areas with active neurogenesis. mRNA transcripts
+for several S1P receptor subtypes (S1P1, S1P2, S1P3 and S1P5) were expressed in
+neural progenitor cells prepared from embryonic rat hippocampus. S1P induced
+phosphorylation of extracellular signal-regulated kinase (ERK) and proliferation 
+of neural progenitor cells as determined by BrdU incorporation in a pertussis
+toxin-sensitive manner. These effects were prevented by the ERK signaling
+inhibitor U0126. S1P augmented telomerase activity in neural progenitor cells
+with similar potency as that of FGF-2. Furthermore, S1P induced cell-cell
+aggregation. This morphological change was transient and prevented by Y-27632, an
+inhibitor of Rho-associated kinase. These results suggest that S1P plays a
+pleiotropic role in neurogenesis via pathways involving S1P receptors, MAP
+kinases and Rho kinase.
+
+PMID: 14756825  [PubMed - indexed for MEDLINE]
+
+
+42. Dev Neurosci. 2003 Mar-Aug;25(2-4):257-72.
+
+Distinguishing features of progenitor cells in the late embryonic and adult
+hippocampus.
+
+Limke TL(1), Cai J, Miura T, Rao MS, Mattson MP.
+
+Author information: 
+(1)National Institute on Aging, Laboratory of Neurosciences, Gerontology Research
+Center, Baltimore, MD 21224, USA. limketo@grc.nia.nih.gov
+
+Adult neurogenesis occurs within the subgranular layer of the hippocampal dentate
+gyrus. In this study, we examined dividing cells in the late embryonic and adult 
+rat hippocampus to identify distinguishing characteristics and potential neural
+stem cell population(s), as identified by the putative neural stem cell markers
+FGFR4 and Sox1. In embryonic hippocampal cells in primary culture, basic
+fibroblast factor caused cell proliferation, increased telomerase activity and
+upregulation of FGFR4 mRNA. In both the embryonic and adult brains, proliferating
+cells express Sox1, as well as markers for neuronal- and glial-restricted
+precursors. However, the cell markers associated with cells expressing
+proliferative cell nuclear antigen (PCNA) and Sox1 differed between late
+embryonic and adult hippocampus, suggesting that there are important differences 
+between adult and embryonic neurogenesis.
+
+Copyright 2003 S. Karger AG, Basel
+
+PMID: 12966222  [PubMed - indexed for MEDLINE]
+
+
+43. Hum Mol Genet. 2003 May 1;12(9):975-84.
+
+Spontaneous deletion of epilepsy gene orthologs in a mutant mouse with a low
+electroconvulsive threshold.
+
+Yang Y(1), Beyer BJ, Otto JF, O'Brien TP, Letts VA, White HS, Frankel WN.
+
+Author information: 
+(1)The Jackson Laboratory, 600 Main Street, Bar Harbor, ME 04609, USA.
+
+The electroconvulsive threshold (ECT) test has been used extensively to determine
+the protection conferred by antiepileptic drug candidates against induced
+seizures in rodents. Despite its clinical relevance, the potential of ECT to
+identify mouse epilepsy models in genetic studies has not been thoroughly
+assessed. We adopted the ECT test to screen the progeny of ethylnitrosourea
+treated male C57BL/6J mice. In a small-scale screen, several mutant lines
+conferring a low threshold to ECT minimal clonic seizures were mapped to the
+telomeric region of mouse chromosome 2 in independent founder families. This high
+incidence was suggestive of a single spontaneous event that pre-existed in the
+founders of mutagenized stock. Genetic and physical mapping led to the discovery 
+that several lines shared a single mutation, Szt1 (seizure threshold-1),
+consisting of a 300 kb deletion of genomic DNA involving three known genes. Two
+of these genes, Kcnq2 and Chrna4, are known to be mutated in human epilepsy
+families. Szt1 homozygotes and heterozygotes display similar phenotypes to those 
+found in the respective Kcnq2 knockout mutant mice, suggesting that Kcnq2
+haploinsufficiency is at the root of the Szt1 seizure sensitivity. Our results
+provide a novel genetic model for epilepsy research and demonstrate that the
+approach of using ECT to study seizures in mice has the potential to lead to the 
+identification of human epilepsy susceptibility genes.
+
+PMID: 12700166  [PubMed - indexed for MEDLINE]
+
+
+44. Exp Neurol. 2002 Dec;178(2):294-300.
+
+Seizures and tissue injury induce telomerase in hippocampal microglial cells.
+
+Fu W(1), Lee J, Guo Z, Mattson MP.
+
+Author information: 
+(1)Laboratory of Neurosciences, National Institute on Aging Gerontology Research 
+Center, Baltimore, Maryland 21224, USA.
+
+Telomerase is a reverse transcriptase that adds repeats of a six-base DNA
+sequence to chromosome ends and thereby prevents their shortening during
+successive cell divisions. Telomerase activity and expression of the catalytic
+subunit of telomerase (TERT) are high in brain cells during embryonic
+development, but are undetectable in the adult. We now report that telomerase
+activity and expression of TERT are induced in the hippocampus of adult mice
+after administration of the seizure-inducing excitotoxin kainate. Telomerase
+activity is present at 24 h and 7 days after kainate administration, but is no
+longer detectable at 4 weeks. Because the time course of telomerase induction was
+similar to the time course of microglial activation, we performed studies to
+determine whether microglia were the source of the telomerase activity.
+Examination of brain sections immunostained with a TERT antibody and an antibody 
+against a microglia-specific antigen revealed that TERT was not detectable in the
+uninjured brain, and was present in microglia 24 h and 7 days after kainate
+administration. This is the first evidence that telomerase can be induced by
+brain injury and the first evidence that TERT can be expressed in microglia,
+suggesting roles for telomerase in microglial responses to brain injury.
+
+PMID: 12504888  [PubMed - indexed for MEDLINE]
+
+
+45. J Neurosci. 2002 Dec 15;22(24):10710-9.
+
+Telomerase mediates the cell survival-promoting actions of brain-derived
+neurotrophic factor and secreted amyloid precursor protein in developing
+hippocampal neurons.
+
+Fu W(1), Lu C, Mattson MP.
+
+Author information: 
+(1)Laboratory of Neurosciences, National Institute on Aging Gerontology Research 
+Center, Baltimore, Maryland 21224, USA.
+
+Telomerase, a reverse transcriptase that maintains chromosome ends (telomeres)
+during successive cell divisions in mitotic cells is present in neuroblasts and
+early postmitotic embryonic neurons but is absent from adult neurons. The signals
+that control telomerase levels during development are unknown, as are the
+functions of telomerase in developing neurons. We now report that telomerase
+activity and levels of its catalytic subunit telomerase reverse transcriptase
+(TERT) are increased in embryonic hippocampal neurons by brain-derived
+neurotrophic factor (BDNF) and a secreted form of beta-amyloid precursor protein 
+(sAPP). BDNF and sAPP promote the survival of the embryonic neurons, and these
+trophic effects are blocked when TERT production is suppressed using antisense
+technology. Telomerase is required for the long-term survival of early
+postmitotic neurons during a time window of approximately 1 week in culture;
+telomerase is then downregulated and is not required for BDNF and sAPP survival
+signaling in mature neurons. The increase in telomerase activity and trophic
+effects of BDNF and sAPP are mediated by phosphatidylinositol-3 kinase and
+p42/p44 MAP kinases. Our findings demonstrate a requirement for telomerase in the
+cell survival-promoting actions of BDNF and sAPP in early postmitotic hippocampal
+neurons, suggesting a previously unknown role for telomerase in mediating the
+biological actions of neurotrophic factors during brain development.
+
+PMID: 12486164  [PubMed - indexed for MEDLINE]
+
+
+46. Brain Res Dev Brain Res. 2001 Nov 26;131(1-2):167-71.
+
+Telomerase protects developing neurons against DNA damage-induced cell death.
+
+Lu C(1), Fu W, Mattson MP.
+
+Author information: 
+(1)Laboratory of Neurosciences, National Institute on Aging Gerontology Research 
+Center, 5600 Nathan Shock Drive, Baltimore, MD 21224, USA.
+
+In mitotic cells, telomerase adds repeats of a DNA sequence (TTAGGG) to the ends 
+of chromosomes (telomeres) thereby maintaining their length and preventing
+cellular senescence. We recently reported that the catalytic subunit of
+telomerase (TERT) is expressed in neuronal progenitor cells and in early
+postmitotic neurons in the developing rodent brain. We now report that TERT can
+protect cultured PC12 cells and embryonic hippocampal neurons against death
+induced by DNA damage. Overexpression of TERT in PC12 cells increases their
+resistance to the topoisomerase inhibitors camptothecin and etoposide.
+Hippocampal neurons in which TERT levels are decreased using antisense technology
+exhibit increased vulnerability to the DNA-damaging agents. Emerging findings
+suggest that DNA damage may trigger the death of neurons during brain development
+and in neurodegenerative disorders. Our data therefore suggest roles for TERT in 
+modulating such cell deaths.
+
+PMID: 11718848  [PubMed - indexed for MEDLINE]
+
+
+47. J Neurosci Res. 2001 May 1;64(3):252-60.
+
+Differential regulation of telomerase activity and TERT expression during brain
+development in mice.
+
+Klapper W(1), Shin T, Mattson MP.
+
+Author information: 
+(1)Laboratory of Neurosciences, National Institute on Aging Gerontology Research 
+Center, Baltimore, Maryland 21224, USA.
+
+Telomerase is an enzyme activity consisting of a reverse transcriptase called
+TERT and an RNA component that adds repeats of a DNA sequence (TTAGGG) to the
+ends of chromosomes, thereby preventing their shortening. Associations between
+telomerase activity and proliferation and differentiation of neural tumor cells
+and neural stem cells have been reported, but the role of telomerase in brain
+development is unknown. We now report analyses of telomerase activity, TERT mRNA 
+levels and levels of mRNAs encoding the telomere-associated proteins TRF1 and
+TRF2 in three different brain regions (brainstem, hippocampus and cerebral
+cortex) and the eye of mice at increasing developmental time points. Telomerase
+activity is high in the brain at embryonic day 13 (E13), declines markedly
+between E13 and E18, remains at a low level until postnatal day 3 (P3) and
+becomes undetectable by P10. Surprisingly, the temporal pattern of change in
+telomerase activity is not paralleled by a decrease in levels of TERT mRNA that
+remain elevated from E13 to P5 (with fluctuations during this time window that
+vary among brain regions), and then decrease to a lower level that is maintained 
+into adulthood. TRF1 and TRF2 mRNA levels are relatively constant throughout
+brain development. Our data are consistent with a role for telomerase activity in
+proliferation of neural progenitor cells, and further suggest that TERT may play 
+roles in neuronal differentiation and survival. The dissociation between TERT
+expression and telomerase activity is a novel finding that suggests biological
+functions for TERT in addition to telomere maintenance. J. Neurosci. Res.
+64:252-260, 2001. Published 2001 Wiley-Liss, Inc.
+
+PMID: 11319769  [PubMed - indexed for MEDLINE]
+
+
+48. J Neurochem. 2000 Jul;75(1):117-24.
+
+The catalytic subunit of telomerase protects neurons against amyloid
+beta-peptide-induced apoptosis.
+
+Zhu H(1), Fu W, Mattson MP.
+
+Author information: 
+(1)Sanders-Brown Research Center on Aging, University of Kentucky, Lexington,
+Kentucky. Laboratory of Neurosciences, National Institute on Aging, Baltimore,
+Maryland, USA.
+
+The catalytic subunit of telomerase (TERT) is a specialized reverse transcriptase
+that has been associated with cell immortalization and cancer. It was reported
+recently that TERT is expressed in neurons throughout the brain in embryonic and 
+early postnatal development, but is absent from neurons in the adult brain. We
+now report that suppression of TERT levels and function in embryonic mouse
+hippocampal neurons in culture using antisense technology and the telomerase
+inhibitor 3' -azido-2' 3' -dideoxythymidine significantly increases their
+vulnerability to cell death induced by amyloid beta-peptide, a neurotoxic protein
+believed to promote neuronal degeneration in Alzheimer's disease. Neurons in
+which TERT levels were reduced exhibited increased levels of oxidative stress and
+mitochondrial dysfunction following exposure to amyloid beta-peptide.
+Overexpression of TERT in pheochromocytoma cells resulted in decreased
+vulnerability to amyloid beta-peptide-induced apoptosis. Our findings demonstrate
+a neuroprotective function of TERT in an experimental model relevant to
+Alzheimer's disease, and suggest the possibility that restoration of TERT
+expression in neurons in the adult brain may protect against age-related
+neurodegeneration.
+
+PMID: 10854254  [PubMed - indexed for MEDLINE]
