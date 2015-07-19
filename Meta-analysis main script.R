@@ -12,7 +12,7 @@ require(psych)
 
 # Grodstein 2008
 # We have n and p
-n <- 57
+n <- 26
 df <- n - 1
 p <- 0.038
 t <- qt((1-p/2), df)
@@ -27,7 +27,7 @@ data <- rbind(data, data.frame(author = "Wikgren_e4", year= 2012, ri = 0.134, ni
 
 # King 2014
 # We have r2 and n
-data <- rbind(data, data.frame(author = "King", year = 2014, ri = sqrt(0.0091), ni = 1960, covariates = "age, sex, race/ethnicity, total cranial volume"))
+data <- rbind(data, data.frame(author = "King", year = 2014, ri = sqrt(0.0091), ni = 1960, covariates = "age, sex, race/ethnicity"))
 
 # Wolkowitz 2015
 # We have r and n for both groups
@@ -72,6 +72,22 @@ funnel(taf2)
 
 # Make q-q- plot
 qqnorm(res2)
+
+# PERFORM META-REGRESSION
+# Age and sex are the two identified candidate predictors
+
+data$age_mean <- c(79.2, 62.1, 61.1, 50, 37.8, 34.9, 58.0) #Grodstein did not give age for imaging subsample, age for whole healthy subgroup substituted. King gave median age.
+data$age_sd <- c(2.2, 8.5, 8.1, NA, 12.0, 9.6, 4.7)
+data$age_median <- c(NA)
+data$age_range <- c(NA)
+data$sex_f_n <- c(26, 18, 18, 1153, 10, 17, 28)
+data$sex_f_frac <- c(1, 0.62, 0.64, 0.59, 0.63, 0.59, 1)
+
+res3 <- rma(ri = ri, ni = ni, measure = "COR", slab=paste(author, year, sep=" "), data = data, mods = age_mean)
+res3
+
+res4 <- rma(ri = ri, ni = ni, measure = "COR", slab=paste(author, year, sep=" "), data = data, mods = sex_f_frac)
+res4
 
 # MAKE FIGURES FOR PUBLICATION
 
