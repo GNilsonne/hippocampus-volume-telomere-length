@@ -7,6 +7,7 @@ require(compute.es)
 require(metafor)
 require(xtable)
 require(psych)
+require(pwr)
 
 # DETERMINE EFFECT SIZES FOR EACH PAPER
 
@@ -88,6 +89,10 @@ res3
 
 res4 <- rma(ri = ri, ni = ni, measure = "COR", slab=paste(author, year, sep=" "), data = data, mods = sex_f_frac)
 res4
+
+# ESTIMATE OBSERVED POWER
+pwr.r.test(n = 30, r = 0.12)
+pwr.r.test(n = 30, r = 0.23)
 
 # MAKE FIGURES FOR PUBLICATION
 
