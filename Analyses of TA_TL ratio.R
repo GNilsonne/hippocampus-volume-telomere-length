@@ -52,7 +52,9 @@ plot(TL ~ telomerase, data = JacobsL, frame.plot = F, xlim = c(5000, 120000), yl
 points(TL ~ telomerase, data = JacobsR, col = "red")
 legend("topright", col = c("black", "red"), pch = 1, legend = c("left", "right"))
 
-plot(hippvol ~ TA_z, data = Wolkowitz_TA_Con, pch = 22, xlim = c(-2.5, 2), ylim = c(3, 6.4), xaxs="i", yaxs="i", xlab = "Telomerase activity", ylab = "Hippocampus volume")
+plot(hippvol ~ TA_z, data = Wolkowitz_TA_Con, pch = 22, xlim = c(-2.5, 2), ylim = c(3, 6.4), yaxs="i", xlab = "Telomerase activity", ylab = "Hippocampus volume", xaxt = "n", yaxt = "n")
+axis(1, at = c(-2.5, -1.5, -0.5, 0.5, 1.5))
+axis(2, at = c(3, 4, 5, 6))
 abline(lm(hippvol ~ TA_z, data = Wolkowitz_TA_Con), lty = 2, col = "blue")
 points(hippvol ~ TA_z, data = Wolkowitz_TA_MDD, pch = 16)
 abline(lm(hippvol ~ TA_z, data = Wolkowitz_TA_MDD))
