@@ -65,6 +65,7 @@ points(hippvol ~ TL_z, data = Wolkowitz_TL_MDD, pch = 16)
 abline(lm(hippvol ~ TL_z, data = Wolkowitz_TL_MDD))
 
 # Verify matching of data points by hippocampus volume
+# hippvol1 and hippvol2 are the two different readings; data were published in two scatter plots vs telomere length and vs telomerase/length ratio
 plot(hippvol2 ~ hippvol1, data = JacobsL, frame.plot = F)
 cor.test(JacobsL$hippvol2, JacobsL$hippvol1)
 
