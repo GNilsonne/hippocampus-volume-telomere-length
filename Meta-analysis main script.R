@@ -45,14 +45,14 @@ print(xtable(data))
 # PERFORM META-ANALYSIS
 
 # Perform analysis
-#res <- rma(ri = ri, ni = ni, measure = "COR", slab=paste(author, year, sep=" "), data = data)
-#res
+res <- rma(ri = ri, ni = ni, measure = "COR", slab=paste(author, year, sep=" "), data = data)
+res
 
 # Make forest plot
-#forest(res)
+forest(res)
 
 # Make trim-and-fill analysis and show funnel plot
-taf <- trimfill(res.ml)
+taf <- trimfill(res)
 taf
 funnel(taf)
 
