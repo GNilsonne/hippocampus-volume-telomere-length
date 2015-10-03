@@ -26,5 +26,6 @@ This repository contains the following pdf files, showing original scatterplots 
 - Wolkowitz2015 data extraction validation 1.pdf
 - Wolkowitz2015 data extraction validation 2.pdf
 
-This repository contains the list of PubMed search results, using the string "telomer* hippocampus", including titles and abstracts:
+This repository contains the list of PubMed search results, using the string "telomer* hippocampus", including titles and abstracts, from two different dates:
 - PubMed search result 150714.txt
+- PubMed search result 150922.txt
