@@ -1,0 +1,529 @@
+﻿1. Exp Neurol. 2017 Jun 1;295:55-65. doi: 10.1016/j.expneurol.2017.06.001. [Epub
+ahead of print]
+
+Manipulating cognitive reserve: Pre-injury environmental conditions influence the
+severity of concussion symptomology, gene expression, and response to melatonin
+treatment in rats.
+
+Yamakawa GR(1), Salberg S(1), Barlow KM(2), Brooks BL(2), Esser MJ(2), Yeates
+KO(3), Mychasiuk R(4).
+
+Author information: 
+(1)Alberta Children's Hospital Research Institute, Canada.
+(2)Alberta Children's Hospital Research Institute, Canada; Departments of
+Pediatrics and Clinical Neurosciences, University of Calgary, Calgary, AB,
+Canada.
+(3)Alberta Children's Hospital Research Institute, Canada; Hotchkiss Brain
+Institute, Cumming School of Medicine, Canada; Department of Psychology,
+University of Calgary, AB, Canada; Departments of Pediatrics and Clinical
+Neurosciences, University of Calgary, Calgary, AB, Canada.
+(4)Alberta Children's Hospital Research Institute, Canada; Hotchkiss Brain
+Institute, Cumming School of Medicine, Canada; Department of Psychology,
+University of Calgary, AB, Canada. Electronic address: rmmychas@ucalgary.ca.
+
+In an effort to understand the factors that contribute to heterogeneity in
+outcomes often associated with mTBI in youth, this study examined the role of
+premorbid differences in cognitive reserve on post-concussive symptoms (PCS),
+molecular markers, and treatment response. Male and female rats matured in one of
+three environmental conditions (Stress, Enrichment, Control), received a mTBI in 
+adolescence, and were randomized to melatonin or placebo treatment. All animals
+underwent a behavioural test battery designed to examine PCS. Using prefrontal
+cortex and hippocampus tissue, expression of 9 genes was assessed in an effort to
+determine how the brain's epigenome was influenced by cognitive reserve, mTBI,
+and melatonin. Enrichment increased cognitive reserve (CR) and prevented
+lingering symptoms. Conversely, stress was associated with progressive worsening 
+and manifestation of PCS in the longer-term. Melatonin was able to restore
+baseline function for control and enriched animals, but was ineffective for the
+stress condition. Epigenetic change in the prefrontal cortex was largely driven
+by the injury, while gene expression changes in the hippocampus were dependent
+upon cognitive reserve. The occurrence and severity of PCS is dependent upon a
+complex and multifaceted array of factors that modify behavioural and epigenetic 
+responses to mTBI and its treatment.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.expneurol.2017.06.001 
+PMID: 28579327 
+
+
+2. Behav Brain Res. 2017 Jun 30;329:96-103. doi: 10.1016/j.bbr.2017.04.022. Epub
+2017 Apr 22.
+
+Major depressive disorder mediates accelerated aging in rats subjected to chronic
+mild stress.
+
+Xie X(1), Chen Y(1), Ma L(1), Shen Q(1), Huang L(1), Zhao B(1), Wu T(1), Fu Z(2).
+
+Author information: 
+(1)College of Biotechnology and Bioengineering, Zhejiang University of
+Technology, Hangzhou 310032, China.
+(2)College of Biotechnology and Bioengineering, Zhejiang University of
+Technology, Hangzhou 310032, China. Electronic address: azwfu@zjut.edu.cn.
+
+Major depressive disorder (MDD) has a complex etiology and is characterized by a 
+change in mood and psychophysiological state. MDD has been shown to mediate
+accelerated biological aging in patients, although the underlying mechanism is
+not well understood. In the present study, we used a chronic mild stress (CMS)
+paradigm to induce anhedonia, one of the main symptoms of MDD. CMS induced
+depression-like symptoms in rats, including reduced sucrose preference and
+increased immobility time in the forced swim test. Moreover, stressed rats
+travelled a shorter total distance, had fewer grid line crossings, and spent less
+time in the outer zone in the open field test than controls. CMS altered the
+levels of 5-hydroxytryptophan, dopamine, and corticosterone in the serum and
+hippocampus (P<0.05); these rats also exhibited impaired liver function,
+decreased telomerase activity, and telomere shortening, which was associated with
+increased oxidative damage along with decreased superoxide dismutase and
+glutathione reductase activities. Mitochondria in CMS-treated rats showed
+ultrastructural damage as well as reduced DNA content and integrity. These
+findings provide physiological and cellular evidence that the MDD can mediate
+accelerated aging in rats.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbr.2017.04.022 
+PMID: 28442351 
+
+
+3. Transl Psychiatry. 2016 Dec 6;6(12):e969. doi: 10.1038/tp.2015.164.
+
+Variable telomere length across post-mortem human brain regions and specific
+reduction in the hippocampus of major depressive disorder.
+
+Mamdani F, Rollins B, Morgan L, Myers RM, Barchas JD, Schatzberg AF, Watson SJ,
+Akil H, Potkin SG, Bunney WE, Vawter MP, Sequeira PA.
+
+DOI: 10.1038/tp.2015.164 
+PMCID: PMC5315557
+PMID: 27922633 
+
+
+4. Eur J Neurosci. 2016 Oct;44(7):2407-2417. doi: 10.1111/ejn.13360. Epub 2016 Aug
+31.
+
+Reducing the time interval between concussion and voluntary exercise restores
+motor impairment, short-term memory, and alterations to gene expression.
+
+Mychasiuk R(1), Hehar H(2), Ma I(2), Candy S(3), Esser MJ(3).
+
+Author information: 
+(1)Alberta Children's Hospital Research Institute, Department of Psychology,
+University of Calgary, Heritage Medical Research Building, 3330 Hospital Drive
+NW, Calgary, AB, T2N 1N4, Canada. rmmychas@ucalgary.ca.
+(2)Alberta Children's Hospital Research Institute, Department of Psychology,
+University of Calgary, Heritage Medical Research Building, 3330 Hospital Drive
+NW, Calgary, AB, T2N 1N4, Canada.
+(3)Alberta Children's Hospital Research Institute, Faculty of Medicine,
+University of Calgary, Calgary, AB, Canada.
+
+Despite the most common form of brain injury, there has been little progress in
+the prognosis and treatment of concussion/mild traumatic brain injury (mTBI).
+Current 'return-to-play' guidelines are conservative, deterring the initiation of
+physical and social activity until patients are asymptomatic; but the effects of 
+post-injury exercise have not been adequately investigated. Therefore, this study
+examined the effects of voluntary exercise on concussion recovery. Using a
+translational rodent model of concussion, we examined the influence of exercise
+on injury-associated behaviours that comprise post-concussive syndrome (PCS) and 
+gene expression changes (bdnf, dnmt1, Igf-1, pgc1-a, Tert) in prefrontal cortex
+and hippocampus. In addition, as we have previously demonstrated telomere length 
+(TL) to be a reliable predictor of mTBI prognosis, TL was also examined. The
+results suggest that exercise initiated within 1-3 days post-concussion
+significantly improved motor and cognitive functioning, but had limited efficacy 
+treating emotional impairments. What is more, when deprived of social interaction
+and exercise, a combination similar to clinical recommendations for rest until
+symptom resolution, animals did not recover and exhibited impairments similar to 
+typical mTBI animals. Exercise aided in restoration of mTBI-induced modifications
+to gene expression in both brain regions. An inverse relationship between the
+exercise return interval and TL was identified, indicating greater recovery with 
+acute exercise reinstatement. Although additional strategies may need to be
+employed for emotional functioning, these findings support re-evaluation of
+'return-to-play' guidelines, suggesting that exercise is valuable for the
+treatment of concussion.
+
+© 2016 Federation of European Neuroscience Societies and John Wiley & Sons Ltd.
+
+DOI: 10.1111/ejn.13360 
+PMID: 27521273 
+
+
+5. Transl Psychiatry. 2016 Jun 14;6(6):e836. doi: 10.1038/tp.2016.106.
+
+Reactivation of Tert in the medial prefrontal cortex and hippocampus rescues
+aggression and depression of Tert(-/-) mice.
+
+Zhou QG(1)(2), Wu HY(2), Zhou H(2), Liu MY(2), Lee HW(3), Liu X(4), Devkota S(3),
+Ro EJ(1), Zhu DY(2), Suh H(1).
+
+Author information: 
+(1)Department of Stem Cell Biology and Regenerative Medicine, Lerner Research
+Institute, Cleveland Clinic, Cleveland, OH, USA.
+(2)Department of Pharmacology, Pharmacy College, Nanjing Medical University,
+Nanjing, China.
+(3)Department of Biochemistry, College of Life Science and Biotechnology, Yonsei 
+Laboratory Animal Research Center, Yonsei University, Seoul, Korea.
+(4)Department of Chinese Medicine, College of Pharmacy, Nanjing University of
+Chinese Medicine, Nanjing, China.
+
+The role of telomerase reverse transcriptase (TERT) has been extensively
+investigated in the contexts of aging and cancer. Interestingly, Tert(-/-) mice
+exhibit additional but unexpected aggressive and depressive behaviors, implying
+the potential involvement of TERT function in mood control. Our conditional
+rescue experiments revealed that the depressive and aggressive behaviors of
+Tert(-/-) mice originate from Tert deficiency in two distinct brain structures.
+Reactivation of Tert in the hippocampus was sufficient to normalize the
+depressive but not the aggressive behaviors of Tert(-/-) mice. Conversely,
+re-expression of Tert in the medial prefrontal cortex (mPFC) reversed the
+aggressive but not the depressive behavior of Tert(-/-) mice. Mechanistically,
+decreased serotonergic signaling and increased nitric oxide (NO) transmission in 
+the hippocampus transduced Tert deficiency into depression as evidenced by our
+observation that the infusion of a pharmacological agonist for serotonin receptor
+1a (5-HTR1A) and a selective antagonist for neuronal NO synthase into the
+hippocampus successfully normalized the depressive behavior of Tert(-/-) mice. In
+addition, increased serotonergic transmission by the 5-HTR1A agonist in the mPFC 
+was sufficient to rescue the aggressive behavior of Tert(-/-) mice. Thus, our
+studies revealed a novel function of TERT in the pathology of depression and
+aggression in a brain structure-specific manner, providing direct evidence for
+the contribution of TERT to emotional control.
+
+DOI: 10.1038/tp.2016.106 
+PMCID: PMC4931604
+PMID: 27300262 
+
+
+6. J Affect Disord. 2016 May;195:156-62. doi: 10.1016/j.jad.2016.02.032. Epub 2016
+Feb 9.
+
+Telomere length and telomere repeating factors: Cellular markers for
+post-traumatic stress disorder-like model.
+
+Dong Y(1), Zhang G(2), Yuan X(1), Zhang Y(3), Hu M(3).
+
+Author information: 
+(1)Medical school of Shihezi University, Shihezi, the Xinjiang Uygur Autonomous
+Region 832000, China.
+(2)Department of Psychology Rehabilitation, the First Affiliated Hospital of the 
+Medical College, Shihezi University, Shihezi, Xinjiang, China. Electronic
+address: firstli@126.com.
+(3)Department of Psychology Rehabilitation, the First Affiliated Hospital of the 
+Medical College, Shihezi University, Shihezi, Xinjiang, China.
+
+OBJECTIVE: The aim of the present study was to explore the telomere length of
+peripheral blood leukocytes from a rat model of post-traumatic stress disorder
+(PTSD), as well as the expression level of telomere-binding protein in the
+hippocampal CA1 region.
+METHODS: The PTSD model was established with 42 adult male Wistar rats. The
+relative telomere length of the leukocytes was measured by real-time fluorescence
+quantitative polymerase chain reaction, and the expression levels of telomere
+repeating factor 1 (TRF1) and telomere repeating factor 2 (TRF2) in the
+hippocampal CA1 region of the PTSD rat model were determined by
+immunofluorescence technology. The covariance analysis of repeated measurements
+by the mixed model approach was used for the telomere length analysis. The
+comparison of averaged data among groups was performed using least significant
+difference and analysis of variance. The Student's t test or the Mann-Whitney U
+test was used for intragroup comparison. The association study among groups was
+conducted using the Spearman test.
+RESULTS: The shortening speed of telomere length significantly accelerated in
+rats after Single Prolonged Stress (SPS) stimulation (P<0.05). The expression
+levels of TRF1 and TRF2 increased with the progress of PTSD, and the expression
+peak was shown in day 14, which was significantly different from the control
+group (P<0.05).
+CONCLUSION: The shortening speed of the telomere length of peripheral blood
+leukocytes accelerated in PTSD rats, and the expression levels of TRF1 and TRF2
+increased in hippocampus, both of which were closely associated with the
+pathological progress of the PTSD-like model and unfavorable prognosis.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jad.2016.02.032 
+PMID: 26896808  [Indexed for MEDLINE]
+
+
+7. Psychoneuroendocrinology. 2016 Feb;64:150-63. doi:
+10.1016/j.psyneuen.2015.11.017. Epub 2015 Nov 25.
+
+Telomerase activity and its association with psychological stress, mental
+disorders, lifestyle factors and interventions: A systematic review.
+
+Deng W(1), Cheung ST(1), Tsao SW(2), Wang XM(1), Tiwari AF(3).
+
+Author information: 
+(1)School of Nursing, Li Ka Shing Faculty of Medicine, The University of Hong
+Kong, Hong Kong, China.
+(2)School of Biomedical Sciences, Li Ka Shing Faculty of Medicine, The University
+of Hong Kong, Hong Kong, China.
+(3)School of Nursing, Li Ka Shing Faculty of Medicine, The University of Hong
+Kong, Hong Kong, China. Electronic address: afytiwar@hku.hk.
+
+OBJECTIVE: To summarise and discuss the association between telomerase activity
+and psychological stress, mental disorders and lifestyle factors.
+METHOD: A systematic review was carried out to identify prospective or
+retrospective studies and interventions published up to June 2015 that reported
+associations between telomerase activity and psychological stress, mental
+disorders and lifestyle factors. Electronic data bases of PubMed, ProQuest,
+CINAHL and Google Scholar were searched.
+RESULTS: Twenty six studies on humans measured telomerase activity in peripheral 
+blood mononuclear cells (PBMCs) or leukocytes and examined its association with
+psychological stress, mental disorders and lifestyle factors. Of those studies,
+three reported significantly decreased telomerase activity in individuals under
+chronic psychological stress. Interestingly, one of the three studies found that 
+acute laboratory psychological stress significantly increased telomerase
+activity. Nine studies reported mixed results on association between mental
+disorders and telomerase activity. Of the nine studies, five reported that major 
+depressive disorder (MDD) was associated with significantly increased telomerase 
+activity. In thirteen out of fourteen studies on lifestyle factors, it was
+reported that physical exercise, diet micronutrient supplementation, mindfulness 
+meditation, Qigong practice or yoga mediation resulted in increase in telomerase 
+activity. In addition, two studies on animal models showed that depression-like
+behaviour was associated with decreased hippocampus telomerase activity. Five
+animal studies showed that physical exercise increased telomerase activity by
+cell-type-specific and genotype-specific manners.
+CONCLUSION: Although multi-facet results were reported on the association between
+telomerase activity and psychological stress, mental disorders and lifestyle
+factors, there were some consistent findings in humans such as (1) decreased
+telomerase activity in individuals under chronic stress, (2) increased telomerase
+activity in individuals with MDD, and (3) increased telomerase activity in
+individuals under lifestyle interventions. Animal studies showed that physical
+exercise increased telomerase activity in specific cell-types. However, the exact
+mechanisms for the changes in telomerase activity have not been elucidated. We
+propose conglomerate models connecting chronic psychological stress, depression, 
+mediation and physical exercise to telomerase activation. Several areas for
+future research are suggested.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.psyneuen.2015.11.017 
+PMID: 26677763  [Indexed for MEDLINE]
+
+
+8. F1000Res. 2015 Oct 15;4:1073. doi: 10.12688/f1000research.7198.1. eCollection
+2015.
+
+Leukocyte telomere length and hippocampus volume: a meta-analysis.
+
+Nilsonne G(1), Tamm S(1), Månsson KN(2), Åkerstedt T(1), Lekander M(1).
+
+Author information: 
+(1)Stress Research Institute, Stockholm University, Stockholm, Sweden ;
+Department of Clinical Neuroscience, Karolinska Institutet, Stockholm, Sweden.
+(2)Department of Behavioural Sciences and Learning, Linköping University,
+Linköping, Sweden ; PRIMA Psychiatry, Stockholm, Sweden.
+
+Leukocyte telomere length has been shown to correlate to hippocampus volume, but 
+effect estimates differ in magnitude and are not uniformly positive. This study
+aimed primarily to investigate the relationship between leukocyte telomere length
+and hippocampus gray matter volume by meta-analysis and secondarily
+to investigate possible effect moderators. Five studies were included with a
+total of 2107 participants, of which 1960 were contributed by one single
+influential study. A random-effects meta-analysis estimated the effect to r =
+0.12 [95% CI -0.13, 0.37] in the presence of heterogeneity and a subjectively
+estimated moderate to high risk of bias. There was no evidence that
+apolipoprotein E (APOE) genotype was an effect moderator, nor that the ratio of
+leukocyte telomerase activity to telomere length was a better predictor than
+leukocyte telomere length for hippocampus volume. This meta-analysis, while not
+proving a positive relationship, also is not able to disprove the earlier finding
+of a positive correlation in the one large study included in analyses. We propose
+that a relationship between leukocyte telomere length and hippocamus volume may
+be mediated by transmigrating monocytes which differentiate into microglia in the
+brain parenchyma.
+
+DOI: 10.12688/f1000research.7198.1 
+PMCID: PMC4670011
+PMID: 26674112 
+
+
+9. Altern Ther Health Med. 2015 Nov-Dec;21(6):36-46.
+
+Brain-derived Neurotrophic Factor Signaling Pathway: Modulation by Acupuncture in
+Telomerase Knockout Mice.
+
+Lin D, Wu Q, Lin X, Borlongan CV, He ZX, Tan J, Cao C, Zhou SF.
+
+CONTEXT: Telomerase is a critical enzyme that is involved in aging and cancer and
+that is thought to be a part of multiple neurological diseases.
+OBJECTIVE: To investigate the telomerase response in the brain to acupuncture,
+the study examined the levels of expression of brain-derived neurotrophic factor 
+(BDNF) and its downstream signaling molecules, including tyrosine kinase receptor
+Β (TrkB), p75 neurotrophin receptor (p75NTR), protein kinase B (Akt),
+extracellular signal-regulated protein kinase (ERK1/2), and nuclear factor κΒ
+(NF-κΒ).
+DESIGN: Both telomerase-deficient (Terc⁻/⁻) mice (Terc⁻/⁻ group) and normal,
+wild-type (WT) mice (WT group) were randomly assigned to 1 of 3 subgroups, 1
+receiving acupuncture (acupuncture subgroup), 1 receiving sham acupuncture
+therapy (sham subgroup), and 1 receiving no treatment (control subgroup).
+SETTING: The study occurred at the University of South Florida Health Byrd
+Alzheimer's Institute (Tampa, FL, USA).
+INTERVENTION: The 2 acupuncture subgroups received acupuncture at the stomach 36 
+(ST-36) position for 30 min/d for 4 d. For the 2 sham groups, the sham point was 
+set at a location approximately 3 mm to the lateral side of the tail on the
+gluteus muscle following the same schedule.
+OUTCOME MEASURES: After 4 d, the mice were sacrificed, and the brain tissues were
+collected. The protein levels in the hippocampus and dentate gyrus (DG) of each
+mouse were determined by western blotting and immunostaining assays.
+RESULTS: The Terc⁻/⁻ group showed downregulated hippocampal BDNF expression
+compared with the WT mice. Acupuncture at ST-36 for 4 d upregulated BDNF, TrkB,
+p75NTR, Akt, and ERK1/2 in the DG and hippocampus of the telomerase-deficient
+mice, but that result was not seen in the WT mice with normally functioning
+telomerase.
+CONCLUSIONS: The use of acupuncture in pathologies associated with telomerase
+deficiencies, such as Alzheimer's disease (AD) and Parkinson's disease (PD), may 
+provide some benefit in terms of eliciting better clinical responses. The
+research team believes that result occurs through the activation of BDNF and its 
+downstream signaling pathways in populations of patients who exhibit low
+telomerase activity.
+
+
+PMID: 26567448  [Indexed for MEDLINE]
+
+
+10. Transl Psychiatry. 2015 Nov 10;5:e676. doi: 10.1038/tp.2015.172.
+
+Peripheral telomere length and hippocampal volume in adolescents with major
+depressive disorder.
+
+Henje Blom E(1)(2), Han LK(1)(3), Connolly CG(1), Ho TC(1), Lin J(4), LeWinn
+KZ(1), Simmons AN(5)(6), Sacchet MD(1)(7), Mobayed N(5), Luna ME(5), Paulus M(8),
+Epel ES(9), Blackburn EH(4), Wolkowitz OM(9), Yang TT(1).
+
+Author information: 
+(1)Division of Child and Adolescent Psychiatry, Department of Psychiatry,
+University of California San Francisco, San Francisco, CA, USA.
+(2)Department of Clinical Neuroscience, Karolinska Institutet, Stockholm, Sweden.
+(3)Institute of Interdisciplinary Studies, Amsterdam Brain and Cognition,
+University of Amsterdam, Amsterdam, The Netherlands.
+(4)Department of Biochemistry and Biophysics, University of California San
+Francisco, School of Medicine, San Francisco, CA, USA.
+(5)Department of Psychiatry, University of California San Diego, La Jolla, CA,
+USA.
+(6)The Veterans Affairs Health Care System of San Diego, San Diego, CA, USA.
+(7)Neuroscience Programs and Department of Psychology, Stanford University,
+Stanford, CA, USA.
+(8)Laureate Institute for Brain Research, Tulsa, OK, USA.
+(9)Department of Psychiatry, University of California San Francisco, School of
+Medicine, San Francisco, CA, USA.
+
+Several studies have reported that adults with major depressive disorder have
+shorter telomere length and reduced hippocampal volumes. Moreover, studies of
+adult populations without major depressive disorder suggest a relationship
+between peripheral telomere length and hippocampal volume. However, the
+relationship of these findings in adolescents with major depressive disorder has 
+yet to be explored. We examined whether adolescent major depressive disorder is
+associated with altered peripheral telomere length and hippocampal volume, and
+whether these measures relate to one another. In 54 unmedicated adolescents
+(13-18 years) with major depressive disorder and 63 well-matched healthy
+controls, telomere length was assessed from saliva using quantitative polymerase 
+chain reaction methods, and bilateral hippocampal volumes were measured with
+magnetic resonance imaging. After adjusting for age and sex (and total brain
+volume in the hippocampal analysis), adolescents with major depressive disorder
+exhibited significantly shorter telomere length and significantly smaller right, 
+but not left hippocampal volume. When corrected for age, sex, diagnostic group
+and total brain volume, telomere length was not significantly associated with
+left or right hippocampal volume, suggesting that these cellular and neural
+processes may be mechanistically distinct during adolescence. Our findings
+suggest that shortening of telomere length and reduction of hippocampal volume
+are already present in early-onset major depressive disorder and thus unlikely to
+be only a result of accumulated years of exposure to major depressive disorder.
+
+DOI: 10.1038/tp.2015.172 
+PMCID: PMC5068765
+PMID: 26556285  [Indexed for MEDLINE]
+
+
+11. J Neurotrauma. 2016 Jan 15;33(2):168-74. doi: 10.1089/neu.2015.3885. Epub 2015
+Jul 31.
+
+Microparticles Impair Hypotensive Cerebrovasodilation and Cause Hippocampal
+Neuronal Cell Injury after Traumatic Brain Injury.
+
+Bohman LE(1), Riley J(2), Milovanova TN(3)(4), Sanborn MR(1), Thom SR(3)(4),
+Armstead WM(2)(5).
+
+Author information: 
+(1)1 Department of Neurosurgery, University of Pennsylvania , Philadelphia,
+Pennsylvania.
+(2)2 Department of Anesthesiology and Critical Care, University of Pennsylvania ,
+Philadelphia, Pennsylvania.
+(3)3 Department of Emergency Medicine, University of Pennsylvania , Philadelphia,
+Pennsylvania.
+(4)5 Institute for Environmental Medicine, University of Pennsylvania ,
+Philadelphia, Pennsylvania.
+(5)4 Department of Pharmacology, University of Pennsylvania , Philadelphia,
+Pennsylvania.
+
+Endothelin-1 (ET-1), tissue plasminogen activator (tPA), and extracellular
+signal-regulated kinases-mitogen activated protein kinase (ERK-MAPK) are
+mediators of impaired cerebral hemodynamics after fluid percussion brain injury
+(FPI) in piglets. Microparticles (MPs) are released into the circulation from a
+variety of cells during stress, are pro-thrombotic and pro-inflammatory, and may 
+be lysed with polyethylene glycol telomere B (PEG-TB). We hypothesized that MPs
+released after traumatic brain injury impair hypotensive cerebrovasodilation and 
+that PEG-TB protects the vascular response via MP lysis, and we investigated the 
+relationship between MPs, tPA, ET-1, and ERK-MAPK in that process. FPI was
+induced in piglets equipped with a closed cranial window. Animals received PEG-TB
+or saline (vehicle) 30-minutes post-injury. Serum and cerebrospinal fluid (CSF)
+were sampled and pial arteries were measured pre- and post-injury. MPs were
+quantified by flow cytometry. CSF samples were analyzed with enzyme-linked
+immunosorbent assay. MP levels, vasodilatory responses, and CSF signaling assays 
+were similar in all animals prior to injury and treatment. After injury, MP
+levels were elevated in the serum of vehicle but not in PEG-TB-treated animals.
+Pial artery dilation in response to hypotension was impaired after injury but
+protected in PEG-TB-treated animals. After injury, CSF levels of tPA, ET-1, and
+ERK-MAPK were all elevated, but not in PEG-TB-treated animals. PEG-TB-treated
+animals also showed reduction in neuronal injury in CA1 and CA3 hippocampus,
+compared with control animals. These results show that serum MP levels are
+elevated after FPI and lead to impaired hypotensive cerebrovasodilation via
+over-expression of tPA, ET-1, and ERK-MAPK. Treatment with PEG-TB after injury
+reduces MP levels and protects hypotensive cerebrovasodilation and limits
+hippocampal neuronal cell injury.
+
+DOI: 10.1089/neu.2015.3885 
+PMCID: PMC4722602
+PMID: 26230045  [Indexed for MEDLINE]
+
+
+12. Mol Neurobiol. 2016 Jan;53(1):355-368. doi: 10.1007/s12035-014-9010-4. Epub 2014 
+Nov 30.
+
+Lack of JWA Enhances Neurogenesis and Long-Term Potentiation in Hippocampal
+Dentate Gyrus Leading to Spatial Cognitive Potentiation.
+
+Sha S(1)(2), Xu J(3), Lu ZH(2), Hong J(2), Qu WJ(2), Zhou JW(4), Chen L(5)(6).
+
+Author information: 
+(1)Laboratory of Reproductive Medicine, Nanjing Medical University, Nanjing,
+Jiangsu, 210029, China.
+(2)Department of Physiology, Nanjing Medical University, Hanzhong Road 140,
+Nanjing, Jiangsu, 210029, China.
+(3)Department of Molecular Cell Biology and Toxicology, School of Public Health, 
+Nanjing Medical University, Hanzhong Road 140, Nanjing, Jiangsu, 210029, China.
+(4)Department of Molecular Cell Biology and Toxicology, School of Public Health, 
+Nanjing Medical University, Hanzhong Road 140, Nanjing, Jiangsu, 210029, China.
+jwzhou@njmu.edu.cn.
+(5)Laboratory of Reproductive Medicine, Nanjing Medical University, Nanjing,
+Jiangsu, 210029, China. lingchen@njmu.edu.cn.
+(6)Department of Physiology, Nanjing Medical University, Hanzhong Road 140,
+Nanjing, Jiangsu, 210029, China. lingchen@njmu.edu.cn.
+
+JWA (Arl6ip5), a homologous gene of glutamate-transporter-associated protein 3-18
+(GTRAP3-18) and addicsin, is highly expressed in hippocampus. We generated
+systemic and neuronal JWA knockout (JWA-KO and JWA-nKO) mice to investigate the
+influence of JWA deficiency on spatial cognitive performance, process of
+neurogenesis, and induction of long-term potentiation (LTP) in hippocampal
+dentate gyrus (DG). In comparison with wild-type (WT) mice and JWA (loxP/loxP)
+(control of JWA-nKO) mice, 8-week-old JWA-KO mice and JWA-nKO mice showed spatial
+cognitive potentiation as assessed by Morris water maze test. In hippocampal DG
+of JWA-nKO mice, either survival and migration or neurite growth of newborn
+neurons were significantly enhanced without the changes in proliferation and
+differentiation of stem cells. In addition, the increase of LTP amplitude and the
+decline of LTP threshold were observed in DG, but not in CA1 region, of JWA-nKO
+mice compared to control mice. The levels of hippocampal FAK, Akt, and mTOR
+phosphorylation in JWA-nKO mice were higher than those in control mice. The PI3K 
+or FAK inhibitor could abolish the enhanced neurogenesis and LTP induction in
+JWA-nKO mice, which was accompanied by disappearance of the spatial cognitive
+potentiation. The treatment of JWA-nKO mice with 3'-azido-3'-deoxythymidine
+(AZT), a telomerase inhibitor, suppressed not only the enhanced neurogenesis but 
+also the enhanced LTP induction in DG, but it did not affect the LTP induction in
+CA1 region. The results suggest that the JWA deficiency through cascading
+FAK-PI3K-Akt-mTOR pathway increases the newborn neurons and enhances the LTP
+induction in hippocampal DG, which leads to the spatial cognitive potentiation.
+
+DOI: 10.1007/s12035-014-9010-4 
+PMID: 25432888  [Indexed for MEDLINE]
